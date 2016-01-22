@@ -1,0 +1,77 @@
+[Word Base]: Z
+[Variant names]:
+D(protein:Z(7) = -1)
+D(protein:Z(7) = 27)
+D(protein:Z(35) = -29)
+D(protein:Z(35) = -1)
+
+[Word Base]: Z
+[Variant names]:
+D(proteasome:Z(60) = -26)
+D(proteasome:Z(60) = -2)
+D(subunit:Z(60) = -1)
+D(subunit:Z(60) = 7)
+D(human:Z(60) = 14)
+
+[Word Base]: Z
+[Variant names]:
+D(proteasome:Z(136) = -132)
+D(proteasome:Z(136) = -111)
+
+[Word Base]: Z
+[Variant names]:
+D(protein:Z(1) = 7)
+D(function:Z(1) = 21)
+D(study:Z(1) = 28)
+D(study:Z(1) = 53)
+D(protein:Z(1) = 166)
+D(level:Z(1) = 168)
+D(protein:Z(168) = -160)
+D(function:Z(168) = -146)
+D(study:Z(168) = -139)
+D(study:Z(168) = -114)
+D(protein:Z(168) = -1)
+D(level:Z(168) = 1)
+
+[Word Base]: Z
+[Variant names]:
+D(proteasome:Z(49) = -18)
+D(subunit:Z(49) = -3)
+D(subunit:Z(49) = 11)
+D(subunit:Z(49) = 26)
+D(proteasome:Z(49) = 104)
+D(proteasome:Z(91) = -60)
+D(subunit:Z(91) = -45)
+D(subunit:Z(91) = -31)
+D(subunit:Z(91) = -16)
+D(proteasome:Z(91) = 62)
+D(proteasome:Z(128) = -97)
+D(subunit:Z(128) = -82)
+D(subunit:Z(128) = -68)
+D(subunit:Z(128) = -53)
+D(proteasome:Z(128) = 25)
+
+[Word Base]: Z
+[Variant names]:
+D(protein:Z(37) = -1)
+D(complex:Z(37) = 47)
+D(complex:Z(37) = 60)
+D(complex:Z(37) = 81)
+D(complex:Z(37) = 89)
+D(complex:Z(37) = 135)
+D(complex:Z(37) = 155)
+D(complex:Z(37) = 181)
+D(activity:Z(37) = 213)
+D(protein:Z(37) = 223)
+D(protein:Z(261) = -225)
+D(complex:Z(261) = -177)
+D(complex:Z(261) = -164)
+D(complex:Z(261) = -143)
+D(complex:Z(261) = -135)
+D(complex:Z(261) = -89)
+D(complex:Z(261) = -69)
+D(complex:Z(261) = -43)
+D(activity:Z(261) = -11)
+D(protein:Z(261) = -1)
+
+

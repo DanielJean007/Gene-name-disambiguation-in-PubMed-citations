@@ -1,0 +1,32 @@
+[Word Base]: OCA2
+[Variant names]:
+D(OCA2,OCA2) = 9999.0
+D(p,OCA2) = 45.0703125
+D(mutation,OCA2) = 9.172210693359375
+D(albinism,OCA2) = 24.0196533203125
+D(eye,OCA2) = 7.398420333862305
+D(study,OCA2) = 30.061614990234375
+D(associate,OCA2) = 9999.0
+D(patient,OCA2) = 61.25
+D(population,OCA2) = 91.37551879882812
+D(pigmentation,OCA2) = 86.15715503692627
+D(skin,OCA2) = 35.08078311383724
+D(association,OCA2) = 40.66105651855469
+D(color,OCA2) = 9.404657363891602
+D(human,OCA2) = 74.20509338378906
+D(genetic,OCA2) = 73.97881984710693
+D(identify,OCA2) = 27.0
+D(oculocutaneous,OCA2) = 42.8125
+D(oculocutaneous:albinism,OCA2) = 9999.0
+D(hair,OCA2) = 33.25277900695801
+D(oca,OCA2) = 9999.0
+D(analysis,OCA2) = 29.936687469482422
+D(allele,OCA2) = 108.17138576507568
+D(SNP,OCA2) = 43.0439453125
+D(variation,OCA2) = 76.16238403320312
+D(variant,OCA2) = 46.5625
+SD: 0.0
+Mean: 0.0
+Var: 0.0
+Median: 0.0
+

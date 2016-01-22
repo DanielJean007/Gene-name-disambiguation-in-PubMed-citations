@@ -1,0 +1,7 @@
+[Word Base]: PSMB6
+[Variant names]:
+SD: 38.62594618673905
+Mean: -12.523809523809524
+Var: 1491.963718820861
+Median: 0.0
+

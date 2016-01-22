@@ -1,0 +1,1186 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.008143381336335206" totalTokens="257" titles="NRT, levels, stroke, precessation, smoking, ischemic, genotype, nicotine, risk, dependence">
+	<word weight="0.0311284046692607" count="8">NRT</word>
+	<word weight="0.0311284046692607" count="8">levels</word>
+	<word weight="0.027237354085603113" count="7">stroke</word>
+	<word weight="0.023346303501945526" count="6">precessation</word>
+	<word weight="0.019455252918287938" count="5">smoking</word>
+	<word weight="0.019455252918287938" count="5">ischemic</word>
+	<word weight="0.01556420233463035" count="4">genotype</word>
+	<word weight="0.01556420233463035" count="4">nicotine</word>
+	<word weight="0.01556420233463035" count="4">risk</word>
+	<word weight="0.01556420233463035" count="4">dependence</word>
+	<word weight="0.011673151750972763" count="3">abstinence</word>
+	<word weight="0.011673151750972763" count="3">quitting</word>
+	<word weight="0.011673151750972763" count="3">successful</word>
+	<word weight="0.011673151750972763" count="3">smokers</word>
+	<word weight="0.011673151750972763" count="3">sample</word>
+	<word weight="0.011673151750972763" count="3">versus</word>
+	<word weight="0.011673151750972763" count="3">odds</word>
+	<word weight="0.011673151750972763" count="3">polymorphism</word>
+	<word weight="0.011673151750972763" count="3">controls</word>
+	<word weight="0.011673151750972763" count="3">lower</word>
+	<word weight="0.011673151750972763" count="3">patients</word>
+	<word weight="0.011673151750972763" count="3">level</word>
+	<word weight="0.011673151750972763" count="3">association</word>
+	<word weight="0.011673151750972763" count="3">gene</word>
+	<word weight="0.011673151750972763" count="3">occurrence</word>
+	<word weight="0.007782101167315175" count="2">scores</word>
+	<word weight="0.007782101167315175" count="2">cessation</word>
+	<word weight="0.007782101167315175" count="2">score</word>
+	<word weight="0.007782101167315175" count="2">quit-success</word>
+	<word weight="0.007782101167315175" count="2">dose</word>
+	<phrase weight="0.0625" count="1">pro-and anticoagulant</phrase>
+	<phrase weight="0.0625" count="1">Caucasian patients ischemic stroke TIA confirmed age-and sex-matched population controls Venous blood samples levels collected days months stroke onset Estimates relative risk odds ratios adjusted vascular risk factors adjusted relative risk ischemic stroke levels lowest quartile versus highest quartile days months stroke levels convalescent sample significantly lower acute sample convalescent sample odds ratios increased lower quartiles protein</phrase>
+	<phrase weight="0.0625" count="1">variant intron</phrase>
+	<phrase weight="0.0625" count="1">test trend Thirty-nine patients controls heterozygous gene polymorphism patients controls AA-genotype levels</phrase>
+	<phrase weight="0.0625" count="1">optimal precessation dose means personalizing NRT Genome-wide association</phrase>
+	<phrase weight="0.0625" count="1">remains unclear aim</phrase>
+	<phrase weight="0.0625" count="1">determine association gene polymorphism intron levels occurrence ischemic stroke.performed case-control</phrase>
+	<phrase weight="0.0625" count="1">roles level nicotine dependence precessation smoking reduction successful quitting prior work</phrase>
+	<phrase weight="0.0625" count="1">document efficacy precessation NRT support</phrase>
+	<phrase weight="0.0625" count="1">vitamin K-dependent plasma protein</phrase>
+	<phrase weight="0.0625" count="1">lower subjects AA-genotype intermediate heterozygote subjects odds ratio ischemic stroke A-allele carriers versus GG-homozygotes association gene polymorphism occurrence stroke observed</phrase>
+	<phrase weight="0.0625" count="1">influences quit-success genotype score level dependence precessation smoking reduction smoking cessation trial examined effects versus precessation NRT hundred seventy-nine smokers randomized NRT initiated wks prior target quit dates monitored self-reported abstinence end-expired air carbon monoxide Genotyping Affymetrix arrays Santa Clara USA primary outcome continuous smoking abstinence NRT dose level nicotine dependence genotype scores displayed significant interactive effects successful quitting Successful abstinence predicted reductions precessation NRT</phrase>
+	<phrase weight="0.0625" count="1">exact physiological</phrase>
+	<phrase weight="0.0625" count="1">targeting nicotine replacement therapy NRT cost-effective strategies reducing adverse health consequences smokers Treatment</phrase>
+	<phrase weight="0.0625" count="1">groups genomic markers successful quitting allowing develop quit-success genotype score</phrase>
+	<phrase weight="0.0625" count="1">document ways smoking cessation strategies personalized based levels nicotine dependence genotype scores monitoring assessments match smokers optimal NRT doses rapidly</phrase>
+  </topic>
+  <topic id="1" alpha="0.011724577099451208" totalTokens="231" titles="mitochondrial, FKBP, PARKIN, PINK, MOM, membrane, parkin, Parkinson's, translocation, PARKIN-dependent">
+	<word weight="0.047619047619047616" count="11">mitochondrial</word>
+	<word weight="0.03463203463203463" count="8">FKBP</word>
+	<word weight="0.030303030303030304" count="7">PARKIN</word>
+	<word weight="0.025974025974025976" count="6">PINK</word>
+	<word weight="0.021645021645021644" count="5">MOM</word>
+	<word weight="0.021645021645021644" count="5">membrane</word>
+	<word weight="0.017316017316017316" count="4">parkin</word>
+	<word weight="0.017316017316017316" count="4">Parkinson's</word>
+	<word weight="0.017316017316017316" count="4">mitochondria</word>
+	<word weight="0.012987012987012988" count="3">translocation</word>
+	<word weight="0.012987012987012988" count="3">PARKIN-dependent</word>
+	<word weight="0.012987012987012988" count="3">PARK</word>
+	<word weight="0.012987012987012988" count="3">revealed</word>
+	<word weight="0.012987012987012988" count="3">outer</word>
+	<word weight="0.012987012987012988" count="3">screens</word>
+	<word weight="0.012987012987012988" count="3">analysis</word>
+	<word weight="0.012987012987012988" count="3">found</word>
+	<word weight="0.008658008658008658" count="2">ref</word>
+	<word weight="0.008658008658008658" count="2">elucidate</word>
+	<word weight="0.008658008658008658" count="2">depolarization</word>
+	<word weight="0.008658008658008658" count="2">mutated</word>
+	<word weight="0.008658008658008658" count="2">resource</word>
+	<word weight="0.008658008658008658" count="2">accumulation</word>
+	<word weight="0.008658008658008658" count="2">mice</word>
+	<word weight="0.008658008658008658" count="2">prepared</word>
+	<word weight="0.008658008658008658" count="2">studies</word>
+	<word weight="0.008658008658008658" count="2">assays</word>
+	<word weight="0.008658008658008658" count="2">disease</word>
+	<word weight="0.008658008658008658" count="2">control</word>
+	<word weight="0.008658008658008658" count="2">quality</word>
+	<phrase weight="0.02631578947368421" count="1">residue found mutated Parkinson's disease patients</phrase>
+	<phrase weight="0.02631578947368421" count="1">re-sculpts proteome support mitochondrial</phrase>
+	<phrase weight="0.02631578947368421" count="1">diverse cellular</phrase>
+	<phrase weight="0.02631578947368421" count="1">disrupts associations Structural topological analysis revealed</phrase>
+	<phrase weight="0.02631578947368421" count="1">FKBP member immunophilin family</phrase>
+	<phrase weight="0.02631578947368421" count="1">PARKIN substrates--the PARKIN-dependent ubiquitylome--remains poorly defined</phrase>
+	<phrase weight="0.02631578947368421" count="1">studies provide resource</phrase>
+	<phrase weight="0.02631578947368421" count="1">conservation PARKIN-dependent</phrase>
+	<phrase weight="0.02631578947368421" count="1">proteasome Mutation PARKIN active</phrase>
+	<phrase weight="0.02631578947368421" count="1">found depolarization-dependent PARKIN association</phrase>
+	<phrase weight="0.02631578947368421" count="1">stabilizing PINK outer mitochondrial membrane mitochondrial damage</phrase>
+	<phrase weight="0.02631578947368421" count="1">indicating PARKIN dramatically alters</phrase>
+	<phrase weight="0.02631578947368421" count="1">characterization TOMM</phrase>
+	<phrase weight="0.02631578947368421" count="1">HSPA HSP family member BAG mutually opposing roles</phrase>
+	<phrase weight="0.02631578947368421" count="1">genes PINK ref parkin PARK ref act quality control</phrase>
+	<phrase weight="0.02631578947368421" count="1">mitochondrial depolarization Hundreds</phrase>
+	<phrase weight="0.02631578947368421" count="1">parkin translocation screens revealed SIAH found</phrase>
+	<phrase weight="0.02631578947368421" count="1">increasing body evidence points mitochondrial dysfunction contributor molecular pathogenesis neurodegenerative diseases Parkinson's disease Recent studies Parkinson's</phrase>
+	<phrase weight="0.02631578947368421" count="1">vertebrate Drosophila melanogaster MOM</phrase>
+	<phrase weight="0.02631578947368421" count="1">subsequently validated low-throughput assays</phrase>
+	<phrase weight="0.02631578947368421" count="1">Binding assays</phrase>
+	<phrase weight="0.02631578947368421" count="1">preventing accumulation dysfunctional mitochondria elucidate regulators impact parkin translocation damaged mitochondria genome-wide small interfering</phrase>
+	<phrase weight="0.02631578947368421" count="1">central roles mitochondrial</phrase>
+	<phrase weight="0.02631578947368421" count="1">capture proteomics</phrase>
+	<phrase weight="0.02631578947368421" count="1">kinase PINK PARK mutated familial early-onset Parkinson's</phrase>
+	<phrase weight="0.02631578947368421" count="1">PINK PARKIN</phrase>
+	<phrase weight="0.02631578947368421" count="1">subcellular distributions FKBP</phrase>
+	<phrase weight="0.02631578947368421" count="1">siRNA screens coupled high-content microscopy Screening yielded gene candidates</phrase>
+	<phrase weight="0.02631578947368421" count="1">mitophagy PARKIN recruited mitochondrial outer membrane MOM depolarization PINK action ubiquitylate porin mitofusin Miro</phrase>
+	<phrase weight="0.02631578947368421" count="1">MOM full</phrase>
+  </topic>
+  <topic id="2" alpha="0.06985078495365318" totalTokens="1170" titles="HIV, Vif, APOBEC, virus, cells, viral, virions, human, antiviral, protein">
+	<word weight="0.04871794871794872" count="57">HIV</word>
+	<word weight="0.04786324786324787" count="56">Vif</word>
+	<word weight="0.046153846153846156" count="54">APOBEC</word>
+	<word weight="0.022222222222222223" count="26">virus</word>
+	<word weight="0.019658119658119658" count="23">cells</word>
+	<word weight="0.019658119658119658" count="23">viral</word>
+	<word weight="0.017948717948717947" count="21">virions</word>
+	<word weight="0.017094017094017096" count="20">human</word>
+	<word weight="0.01623931623931624" count="19">antiviral</word>
+	<word weight="0.01623931623931624" count="19">protein</word>
+	<word weight="0.015384615384615385" count="18">CEM</word>
+	<word weight="0.013675213675213675" count="16">infectivity</word>
+	<word weight="0.013675213675213675" count="16">factor</word>
+	<word weight="0.01282051282051282" count="15">replication</word>
+	<word weight="0.01282051282051282" count="15">DNA</word>
+	<word weight="0.011111111111111112" count="13">virion</word>
+	<word weight="0.011111111111111112" count="13">immunodeficiency</word>
+	<word weight="0.010256410256410256" count="12">activity</word>
+	<word weight="0.007692307692307693" count="9">potent</word>
+	<word weight="0.007692307692307693" count="9">gene</word>
+	<word weight="0.006837606837606838" count="8">type</word>
+	<word weight="0.006837606837606838" count="8">function</word>
+	<word weight="0.006837606837606838" count="8">enzyme</word>
+	<word weight="0.006837606837606838" count="8">hypermutation</word>
+	<word weight="0.005982905982905983" count="7">deamination</word>
+	<word weight="0.005982905982905983" count="7">phenotype</word>
+	<word weight="0.005982905982905983" count="7">infection</word>
+	<word weight="0.005982905982905983" count="7">wild-type</word>
+	<word weight="0.005982905982905983" count="7">absence</word>
+	<word weight="0.005982905982905983" count="7">infected</word>
+	<phrase weight="0.014285714285714285" count="2">virus HIV</phrase>
+	<phrase weight="0.007142857142857143" count="1">retroviral DNA</phrase>
+	<phrase weight="0.007142857142857143" count="1">observed viruses</phrase>
+	<phrase weight="0.007142857142857143" count="1">evidence virion infectivity factor protein human immunodeficiency virus type HIV functions counteract newly</phrase>
+	<phrase weight="0.007142857142857143" count="1">infections vivo HIV Vif required late</phrase>
+	<phrase weight="0.007142857142857143" count="1">viral infectivity factor Vif</phrase>
+	<phrase weight="0.007142857142857143" count="1">variation primate lentiviral populations</phrase>
+	<phrase weight="0.007142857142857143" count="1">nonpermissive cells</phrase>
+	<phrase weight="0.007142857142857143" count="1">Vif Vif:CEM</phrase>
+	<phrase weight="0.007142857142857143" count="1">occurs human lymphocytes leukemic T-cell lines termed nonpermissive cells termed permissive absence Vif antiviral pathway efficiently inactivates HIV recently</phrase>
+	<phrase weight="0.007142857142857143" count="1">resistance escape immune</phrase>
+	<phrase weight="0.007142857142857143" count="1">shares cytidine deaminase motif CEM Apobec deaminates minus</phrase>
+	<phrase weight="0.007142857142857143" count="1">defence overcome</phrase>
+	<phrase weight="0.007142857142857143" count="1">viral genome potently</phrase>
+	<phrase weight="0.007142857142857143" count="1">APOBEC Vif</phrase>
+	<phrase weight="0.007142857142857143" count="1">phenotype renders progeny virions non-infectious describe unique</phrase>
+	<phrase weight="0.007142857142857143" count="1">strategy innate immunity</phrase>
+	<phrase weight="0.007142857142857143" count="1">Vif APOBEC combine</phrase>
+	<phrase weight="0.007142857142857143" count="1">Vif physically</phrase>
+	<phrase weight="0.007142857142857143" count="1">immunodeficiency virus mac results conserved Cul SCF pathway Vif</phrase>
+	<phrase weight="0.007142857142857143" count="1">virion infectivity factor Vif protein human immunodeficiency virus HIV required late stages viral production</phrase>
+	<phrase weight="0.007142857142857143" count="1">APOBEC CEM cytidine deaminase</phrase>
+	<phrase weight="0.007142857142857143" count="1">binds APOBEC</phrase>
+	<phrase weight="0.007142857142857143" count="1">inhibitory activity APOBEC CEM</phrase>
+	<phrase weight="0.007142857142857143" count="1">host cells</phrase>
+	<phrase weight="0.007142857142857143" count="1">absence viral</phrase>
+	<phrase weight="0.007142857142857143" count="1">Cul elongins Rbx form Skp cullin-F-box SCF)-like</phrase>
+	<phrase weight="0.007142857142857143" count="1">deamination deoxycytidine deoxyuridine</phrase>
+	<phrase weight="0.007142857142857143" count="1">stability APOBEC</phrase>
+	<phrase weight="0.007142857142857143" count="1">Vif acts late viral life cycle</phrase>
+  </topic>
+  <topic id="3" alpha="0.02757040348369668" totalTokens="240" titles="NOS, DUB, general, unknown, genetic, networks, FBXO, Uch, DUBs, activated">
+	<word weight="0.04583333333333333" count="11">NOS</word>
+	<word weight="0.020833333333333332" count="5">DUB</word>
+	<word weight="0.020833333333333332" count="5">general</word>
+	<word weight="0.016666666666666666" count="4">unknown</word>
+	<word weight="0.016666666666666666" count="4">genetic</word>
+	<word weight="0.016666666666666666" count="4">networks</word>
+	<word weight="0.0125" count="3">FBXO</word>
+	<word weight="0.0125" count="3">Uch</word>
+	<word weight="0.0125" count="3">DUBs</word>
+	<word weight="0.0125" count="3">activated</word>
+	<word weight="0.0125" count="3">phosphotyrosine</word>
+	<word weight="0.0125" count="3">drug</word>
+	<word weight="0.008333333333333333" count="2">respiratory</word>
+	<word weight="0.008333333333333333" count="2">cytokine-inducible</word>
+	<word weight="0.008333333333333333" count="2">Importantly</word>
+	<word weight="0.008333333333333333" count="2">culture</word>
+	<word weight="0.008333333333333333" count="2">selectivity</word>
+	<word weight="0.008333333333333333" count="2">potency</word>
+	<word weight="0.008333333333333333" count="2">accumulation</word>
+	<word weight="0.008333333333333333" count="2">USP</word>
+	<word weight="0.008333333333333333" count="2">chromatin-remodeling</word>
+	<word weight="0.008333333333333333" count="2">Ino</word>
+	<word weight="0.008333333333333333" count="2">numbers</word>
+	<word weight="0.008333333333333333" count="2">tyrosine</word>
+	<word weight="0.008333333333333333" count="2">driving</word>
+	<word weight="0.008333333333333333" count="2">oncogenic</word>
+	<word weight="0.008333333333333333" count="2">phosphorylation</word>
+	<word weight="0.008333333333333333" count="2">requires</word>
+	<word weight="0.008333333333333333" count="2">component</word>
+	<word weight="0.008333333333333333" count="2">signaling</word>
+	<phrase weight="0.021739130434782608" count="1">NOS interactome cytokine-inducible</phrase>
+	<phrase weight="0.021739130434782608" count="1">positively negatively dynamic</phrase>
+	<phrase weight="0.021739130434782608" count="1">Importantly characterized</phrase>
+	<phrase weight="0.021739130434782608" count="1">drug development</phrase>
+	<phrase weight="0.021739130434782608" count="1">DINNN motif NOS</phrase>
+	<phrase weight="0.021739130434782608" count="1">Similar SPRY domain-containing</phrase>
+	<phrase weight="0.021739130434782608" count="1">inflammatory lung</phrase>
+	<phrase weight="0.021739130434782608" count="1">culture SILAC quantify coordinate effects</phrase>
+	<phrase weight="0.021739130434782608" count="1">general utility</phrase>
+	<phrase weight="0.021739130434782608" count="1">potential development chemotherapeutic agent</phrase>
+	<phrase weight="0.021739130434782608" count="1">humans Deubiquitination Uch activated</phrase>
+	<phrase weight="0.021739130434782608" count="1">striking accumulation polyubiquitylated</phrase>
+	<phrase weight="0.021739130434782608" count="1">phosphotyrosine component phosphoproteome</phrase>
+	<phrase weight="0.021739130434782608" count="1">networks activated</phrase>
+	<phrase weight="0.021739130434782608" count="1">MYCBP SKP Collectively findings</phrase>
+	<phrase weight="0.021739130434782608" count="1">box SPSB</phrase>
+	<phrase weight="0.021739130434782608" count="1">derived respiratory</phrase>
+	<phrase weight="0.021739130434782608" count="1">compounds drug candidates</phrase>
+	<phrase weight="0.021739130434782608" count="1">direct NOS</phrase>
+	<phrase weight="0.021739130434782608" count="1">ligase scaffolding</phrase>
+	<phrase weight="0.021739130434782608" count="1">molecule broad-range DUB</phrase>
+	<phrase weight="0.021739130434782608" count="1">regulated CRLs</phrase>
+	<phrase weight="0.021739130434782608" count="1">nitric oxide synthase NOS constitutively expressed</phrase>
+	<phrase weight="0.021739130434782608" count="1">overexpressed Flag-tagged catalytically-inactive NOS</phrase>
+	<phrase weight="0.021739130434782608" count="1">Peptides phosphotyrosine isolated</phrase>
+	<phrase weight="0.021739130434782608" count="1">direct impairment</phrase>
+	<phrase weight="0.021739130434782608" count="1">phosphorylation general</phrase>
+	<phrase weight="0.021739130434782608" count="1">FBXO unique SPSBs recruits distinct ligase</phrase>
+	<phrase weight="0.021739130434782608" count="1">prior knowledge</phrase>
+	<phrase weight="0.021739130434782608" count="1">DUBs enabled</phrase>
+  </topic>
+  <topic id="4" alpha="0.023074010241058766" totalTokens="273" titles="cDNAs, human, clones, MGC, mouse, sequence, sequenced, project, collection, ORF">
+	<word weight="0.03296703296703297" count="9">cDNAs</word>
+	<word weight="0.03296703296703297" count="9">human</word>
+	<word weight="0.029304029304029304" count="8">clones</word>
+	<word weight="0.02564102564102564" count="7">MGC</word>
+	<word weight="0.02564102564102564" count="7">cDNA</word>
+	<word weight="0.02197802197802198" count="6">mouse</word>
+	<word weight="0.018315018315018316" count="5">sequence</word>
+	<word weight="0.018315018315018316" count="5">sequenced</word>
+	<word weight="0.014652014652014652" count="4">project</word>
+	<word weight="0.014652014652014652" count="4">collection</word>
+	<word weight="0.014652014652014652" count="4">ORF</word>
+	<word weight="0.014652014652014652" count="4">sequences</word>
+	<word weight="0.01098901098901099" count="3">approximately</word>
+	<word weight="0.01098901098901099" count="3">peak</word>
+	<word weight="0.01098901098901099" count="3">FLJ</word>
+	<word weight="0.01098901098901099" count="3">open</word>
+	<word weight="0.01098901098901099" count="3">distribution</word>
+	<word weight="0.01098901098901099" count="3">genes</word>
+	<word weight="0.01098901098901099" count="3">high</word>
+	<word weight="0.01098901098901099" count="3">complete</word>
+	<word weight="0.01098901098901099" count="3">clone</word>
+	<word weight="0.01098901098901099" count="3">gene</word>
+	<word weight="0.007326007326007326" count="2">random</word>
+	<word weight="0.007326007326007326" count="2">noncoding</word>
+	<word weight="0.007326007326007326" count="2">transcripts</word>
+	<word weight="0.007326007326007326" count="2">content</word>
+	<word weight="0.007326007326007326" count="2">predicted</word>
+	<word weight="0.007326007326007326" count="2">protein-coding</word>
+	<word weight="0.007326007326007326" count="2">clusters</word>
+	<word weight="0.007326007326007326" count="2">advantage</word>
+	<phrase weight="0.1" count="1">publicly accessible cDNA resource complete open reading frame ORF human mouse gene project initially random strategy select clones large number cDNA libraries diverse tissues Candidate clones chosen based EST sequences fully sequenced high accuracy analyzed</phrase>
+	<phrase weight="0.1" count="1">MGC sequences clones restriction public</phrase>
+	<phrase weight="0.1" count="1">protocols targeted missing transcripts required complete mouse human collections Comparison sequence MGC clones reference</phrase>
+	<phrase weight="0.1" count="1">National Institutes Health Mammalian Gene Collection MGC Program multiinstitutional effort identify sequence cDNA clone complete ORF human mouse gene ESTs generated libraries enriched full-length cDNAs analyzed identify candidate full-ORF clones sequenced high accuracy MGC sequenced verified full ORF</phrase>
+	<phrase weight="0.1" count="1">National Institutes Health's Mammalian Gene Collection MGC project designed generate</phrase>
+	<phrase weight="0.1" count="1">developed project human mouse genes represented MGC clone full ORF random selection approach reaching saturation point</phrase>
+	<phrase weight="0.1" count="1">monoclonal antibody</phrase>
+	<phrase weight="0.1" count="1">set human mouse genes Candidate full-ORF clones additional human mouse genes</phrase>
+	<phrase weight="0.1" count="1">base human transcriptome</phrase>
+	<phrase weight="0.1" count="1">networks developed</phrase>
+  </topic>
+  <topic id="5" alpha="0.06761548579766884" totalTokens="562" titles="ubiquitylation, sites, substrates, ubiquitin, inhibition, proteomics, lysine, diGly, DNA, endogenous">
+	<word weight="0.06583629893238434" count="37">ubiquitylation</word>
+	<word weight="0.0498220640569395" count="28">sites</word>
+	<word weight="0.03202846975088968" count="18">substrates</word>
+	<word weight="0.030249110320284697" count="17">ubiquitin</word>
+	<word weight="0.019572953736654804" count="11">inhibition</word>
+	<word weight="0.019572953736654804" count="11">proteomics</word>
+	<word weight="0.017793594306049824" count="10">lysine</word>
+	<word weight="0.014234875444839857" count="8">diGly</word>
+	<word weight="0.014234875444839857" count="8">DNA</word>
+	<word weight="0.010676156583629894" count="6">endogenous</word>
+	<word weight="0.010676156583629894" count="6">site-specific</word>
+	<word weight="0.010676156583629894" count="6">enzymes</word>
+	<word weight="0.010676156583629894" count="6">putative</word>
+	<word weight="0.010676156583629894" count="6">identification</word>
+	<word weight="0.010676156583629894" count="6">quantitative</word>
+	<word weight="0.008896797153024912" count="5">modifications</word>
+	<word weight="0.008896797153024912" count="5">residues</word>
+	<word weight="0.008896797153024912" count="5">site</word>
+	<word weight="0.008896797153024912" count="5">proteasomal</word>
+	<word weight="0.008896797153024912" count="5">demonstrate</word>
+	<word weight="0.008896797153024912" count="5">ubiquitylated</word>
+	<word weight="0.008896797153024912" count="5">distinct</word>
+	<word weight="0.0071174377224199285" count="4">enrichment</word>
+	<word weight="0.0071174377224199285" count="4">acetylation</word>
+	<word weight="0.0071174377224199285" count="4">key</word>
+	<word weight="0.0071174377224199285" count="4">response</word>
+	<word weight="0.0071174377224199285" count="4">regulated</word>
+	<word weight="0.0071174377224199285" count="4">play</word>
+	<word weight="0.0071174377224199285" count="4">peptides</word>
+	<word weight="0.005338078291814947" count="3">modification</word>
+	<phrase weight="0.022222222222222223" count="2">inhibition deubiquitinase inhibition</phrase>
+	<phrase weight="0.011111111111111112" count="1">inhibition proteasomal</phrase>
+	<phrase weight="0.011111111111111112" count="1">higher-energy collisional dissociation LTQ Orbitrap Velos</phrase>
+	<phrase weight="0.011111111111111112" count="1">translation observe alterations</phrase>
+	<phrase weight="0.011111111111111112" count="1">peptides lysine residues harbor</phrase>
+	<phrase weight="0.011111111111111112" count="1">kinases play</phrase>
+	<phrase weight="0.011111111111111112" count="1">findings demonstrate</phrase>
+	<phrase weight="0.011111111111111112" count="1">highlights extensive competitive crosstalk modifications site-specific crosstalk prevalent</phrase>
+	<phrase weight="0.011111111111111112" count="1">ubiquitylation dislocation substrates</phrase>
+	<phrase weight="0.011111111111111112" count="1">ubiquitin combine</phrase>
+	<phrase weight="0.011111111111111112" count="1">quantitative diGly proteomics utilized identify substrates cullin-RING ubiquitin ligases</phrase>
+	<phrase weight="0.011111111111111112" count="1">insights site-specific selection</phrase>
+	<phrase weight="0.011111111111111112" count="1">mixed-chain conjugation data</phrase>
+	<phrase weight="0.011111111111111112" count="1">peptides quantified</phrase>
+	<phrase weight="0.011111111111111112" count="1">diGly proteomics</phrase>
+	<phrase weight="0.011111111111111112" count="1">regulated ubiquitylation sites</phrase>
+	<phrase weight="0.011111111111111112" count="1">remnant K-ε-GG</phrase>
+	<phrase weight="0.011111111111111112" count="1">enables site-specific</phrase>
+	<phrase weight="0.011111111111111112" count="1">endocytosis DNA replication DNA damage repair</phrase>
+	<phrase weight="0.011111111111111112" count="1">distinct K-GG</phrase>
+	<phrase weight="0.011111111111111112" count="1">covers ubiquitylation sites sites</phrase>
+	<phrase weight="0.011111111111111112" count="1">internalization repair DNA damage</phrase>
+	<phrase weight="0.011111111111111112" count="1">modifier adducted lysine residues</phrase>
+	<phrase weight="0.011111111111111112" count="1">finding low</phrase>
+	<phrase weight="0.011111111111111112" count="1">diGly site abundance response proteasomal</phrase>
+	<phrase weight="0.011111111111111112" count="1">evolutionary conservation ubiquitylation sites eukaryotic species lysine modifications</phrase>
+	<phrase weight="0.011111111111111112" count="1">surrounded smaller</phrase>
+	<phrase weight="0.011111111111111112" count="1">disabilities diGly proteomics</phrase>
+	<phrase weight="0.011111111111111112" count="1">diglycine diGly)-containing isopeptides trypsin digestion identify diGly-modified lysine</phrase>
+	<phrase weight="0.011111111111111112" count="1">identification substrates individual ubiquitin</phrase>
+  </topic>
+  <topic id="6" alpha="0.025128602311409915" totalTokens="285" titles="complexes, functional, organization, network, interactions, biological, ERAD, linked, high-confidence, conserved">
+	<word weight="0.03508771929824561" count="10">complexes</word>
+	<word weight="0.02456140350877193" count="7">functional</word>
+	<word weight="0.021052631578947368" count="6">organization</word>
+	<word weight="0.021052631578947368" count="6">network</word>
+	<word weight="0.021052631578947368" count="6">interactions</word>
+	<word weight="0.021052631578947368" count="6">biological</word>
+	<word weight="0.017543859649122806" count="5">ERAD</word>
+	<word weight="0.014035087719298246" count="4">linked</word>
+	<word weight="0.014035087719298246" count="4">high-confidence</word>
+	<word weight="0.014035087719298246" count="4">conserved</word>
+	<word weight="0.010526315789473684" count="3">BioPlex</word>
+	<word weight="0.010526315789473684" count="3">recent</word>
+	<word weight="0.010526315789473684" count="3">genes</word>
+	<word weight="0.010526315789473684" count="3">components</word>
+	<word weight="0.010526315789473684" count="3">reveals</word>
+	<word weight="0.010526315789473684" count="3">biochemical</word>
+	<word weight="0.010526315789473684" count="3">proteins</word>
+	<word weight="0.010526315789473684" count="3">spectrometry</word>
+	<word weight="0.007017543859649123" count="2">thousands</word>
+	<word weight="0.007017543859649123" count="2">unannotated</word>
+	<word weight="0.007017543859649123" count="2">associations</word>
+	<word weight="0.007017543859649123" count="2">physical</word>
+	<word weight="0.007017543859649123" count="2">related</word>
+	<word weight="0.007017543859649123" count="2">functionally</word>
+	<word weight="0.007017543859649123" count="2">stable</word>
+	<word weight="0.007017543859649123" count="2">progress</word>
+	<word weight="0.007017543859649123" count="2">structure</word>
+	<word weight="0.007017543859649123" count="2">systematically</word>
+	<word weight="0.007017543859649123" count="2">understood</word>
+	<word weight="0.007017543859649123" count="2">process</word>
+	<phrase weight="0.02127659574468085" count="1">ERAD individual components ERAD</phrase>
+	<phrase weight="0.02127659574468085" count="1">examining structurally related proteins Finally BioPlex</phrase>
+	<phrase weight="0.02127659574468085" count="1">limited close gap applied integrative global</phrase>
+	<phrase weight="0.02127659574468085" count="1">housekeeping roles billion years ancestral complexes accrued contemporary components rarer metazoan innovations linked multicellularity</phrase>
+	<phrase weight="0.02127659574468085" count="1">subdivides communities correspond complexes</phrase>
+	<phrase weight="0.02127659574468085" count="1">complexes endoplasmic reticulum</phrase>
+	<phrase weight="0.02127659574468085" count="1">metazoan-specific genes</phrase>
+	<phrase weight="0.02127659574468085" count="1">ATPases components</phrase>
+	<phrase weight="0.02127659574468085" count="1">interactions form network structure drives</phrase>
+	<phrase weight="0.02127659574468085" count="1">familial amyotrophic lateral sclerosis</phrase>
+	<phrase weight="0.02127659574468085" count="1">functionally unannotated restricted vertebrates</phrase>
+	<phrase weight="0.02127659574468085" count="1">conserved biological</phrase>
+	<phrase weight="0.02127659574468085" count="1">reconstructed interactomes</phrase>
+	<phrase weight="0.02127659574468085" count="1">sequenced genomes encompasses functional modules</phrase>
+	<phrase weight="0.02127659574468085" count="1">process ER-associated</phrase>
+	<phrase weight="0.02127659574468085" count="1">approaches reveal interactions biological clinical significance mutations membrane</phrase>
+	<phrase weight="0.02127659574468085" count="1">prevalence animals unclear combining extensive biochemical fractionation quantitative</phrase>
+	<phrase weight="0.02127659574468085" count="1">fundamental mechanistic importance adaptive animal</phrase>
+	<phrase weight="0.02127659574468085" count="1">evolutionarily distant species</phrase>
+	<phrase weight="0.02127659574468085" count="1">functional genomics</phrase>
+	<phrase weight="0.02127659574468085" count="1">unannotated proteins inform mechanism Strikingly larger multiprotein assemblies tend extensively annotated evolutionarily conserved</phrase>
+	<phrase weight="0.02127659574468085" count="1">recent progress knowledge composition</phrase>
+	<phrase weight="0.02127659574468085" count="1">profiling approach</phrase>
+	<phrase weight="0.02127659574468085" count="1">stress analysis</phrase>
+	<phrase weight="0.02127659574468085" count="1">generally network architecture reflects</phrase>
+	<phrase weight="0.02127659574468085" count="1">depend stable physical associations</phrase>
+	<phrase weight="0.02127659574468085" count="1">broadly extant animals Clustering reveals spectrum conservation ranging ancient eukaryotic assemblies served</phrase>
+	<phrase weight="0.02127659574468085" count="1">progress biochemical</phrase>
+	<phrase weight="0.02127659574468085" count="1">projections independent co-fractionation</phrase>
+	<phrase weight="0.02127659574468085" count="1">spectrometry systematically</phrase>
+  </topic>
+  <topic id="7" alpha="0.01730619740914574" totalTokens="148" titles="N-terminal, integrase, PAF, phenylalanine, genome, PCNA, signalling, rule, N-end, strand">
+	<word weight="0.060810810810810814" count="9">N-terminal</word>
+	<word weight="0.0472972972972973" count="7">integrase</word>
+	<word weight="0.02702702702702703" count="4">PAF</word>
+	<word weight="0.02702702702702703" count="4">phenylalanine</word>
+	<word weight="0.02702702702702703" count="4">genome</word>
+	<word weight="0.02027027027027027" count="3">PCNA</word>
+	<word weight="0.02027027027027027" count="3">signalling</word>
+	<word weight="0.02027027027027027" count="3">rule</word>
+	<word weight="0.02027027027027027" count="3">N-end</word>
+	<word weight="0.013513513513513514" count="2">strand</word>
+	<word weight="0.013513513513513514" count="2">extent</word>
+	<word weight="0.013513513513513514" count="2">Lys</word>
+	<word weight="0.013513513513513514" count="2">DNA-damage</word>
+	<word weight="0.013513513513513514" count="2">integrity</word>
+	<word weight="0.013513513513513514" count="2">instability</word>
+	<word weight="0.013513513513513514" count="2">synthesis</word>
+	<word weight="0.013513513513513514" count="2">components</word>
+	<word weight="0.013513513513513514" count="2">fully</word>
+	<word weight="0.013513513513513514" count="2">host</word>
+	<word weight="0.006756756756756757" count="1">determinant</word>
+	<word weight="0.006756756756756757" count="1">enzymatic</word>
+	<word weight="0.006756756756756757" count="1">C-terminal</word>
+	<word weight="0.006756756756756757" count="1">mutagenesis</word>
+	<word weight="0.006756756756756757" count="1">Apobec</word>
+	<word weight="0.006756756756756757" count="1">anti-HIV</word>
+	<word weight="0.006756756756756757" count="1">relationship</word>
+	<word weight="0.006756756756756757" count="1">N-termini</word>
+	<word weight="0.006756756756756757" count="1">algorithms</word>
+	<word weight="0.006756756756756757" count="1">modification</word>
+	<word weight="0.006756756756756757" count="1">dimerization</word>
+	<phrase weight="0.03571428571428571" count="1">residues retained metabolic instability integrase</phrase>
+	<phrase weight="0.03571428571428571" count="1">rule resulted</phrase>
+	<phrase weight="0.03571428571428571" count="1">N-end rule pathway replacement N-terminal phenylalanine methionine valine</phrase>
+	<phrase weight="0.03571428571428571" count="1">DNA-damage signalling</phrase>
+	<phrase weight="0.03571428571428571" count="1">bears N-terminal phenylalanine found short-lived</phrase>
+	<phrase weight="0.03571428571428571" count="1">N-terminal modification</phrase>
+	<phrase weight="0.03571428571428571" count="1">replication unperturbed phase</phrase>
+	<phrase weight="0.03571428571428571" count="1">integrase catalyzes irreversible</phrase>
+	<phrase weight="0.03571428571428571" count="1">synthesis polymerase</phrase>
+	<phrase weight="0.03571428571428571" count="1">half-life N-terminal Met-integrase Conversely substitution N-terminal phenylalanine</phrase>
+	<phrase weight="0.03571428571428571" count="1">integrase physiological</phrase>
+	<phrase weight="0.03571428571428571" count="1">signalling repair</phrase>
+	<phrase weight="0.03571428571428571" count="1">replication-fork-blocking lesions</phrase>
+	<phrase weight="0.03571428571428571" count="1">turnover bacteriophage</phrase>
+	<phrase weight="0.03571428571428571" count="1">double mono-ubiquitylation Lys</phrase>
+	<phrase weight="0.03571428571428571" count="1">factor PAF PAF)/KIAA</phrase>
+	<phrase weight="0.03571428571428571" count="1">extent enzymatic</phrase>
+	<phrase weight="0.03571428571428571" count="1">degradation integrase</phrase>
+	<phrase weight="0.03571428571428571" count="1">integrase instability maintenance integrity host</phrase>
+	<phrase weight="0.03571428571428571" count="1">system synthesis</phrase>
+	<phrase weight="0.03571428571428571" count="1">safeguarding genome integrity DNA</phrase>
+	<phrase weight="0.03571428571428571" count="1">inhibitors N-terminal phenylalanine</phrase>
+	<phrase weight="0.03571428571428571" count="1">PAF PCNA facilitating</phrase>
+	<phrase weight="0.03571428571428571" count="1">genome host chromosomal</phrase>
+	<phrase weight="0.03571428571428571" count="1">proteasome-dependent removal Lys</phrase>
+	<phrase weight="0.03571428571428571" count="1">PCNA binding Replication blocks trigger</phrase>
+	<phrase weight="0.03571428571428571" count="1">N-end rule discuss</phrase>
+	<phrase weight="0.03571428571428571" count="1">recruitment translesion</phrase>
+  </topic>
+  <topic id="8" alpha="0.057521869867336047" totalTokens="612" titles="subunits, proteasome, beta, proteasomes, complexes, alpha, precursor, PSMB, proteassemblin, phosphorylation">
+	<word weight="0.06209150326797386" count="38">subunits</word>
+	<word weight="0.05718954248366013" count="35">proteasome</word>
+	<word weight="0.05065359477124183" count="31">beta</word>
+	<word weight="0.04084967320261438" count="25">subunit</word>
+	<word weight="0.0392156862745098" count="24">proteasomes</word>
+	<word weight="0.032679738562091505" count="20">complexes</word>
+	<word weight="0.03104575163398693" count="19">alpha</word>
+	<word weight="0.017973856209150325" count="11">precursor</word>
+	<word weight="0.014705882352941176" count="9">PSMB</word>
+	<word weight="0.014705882352941176" count="9">proteassemblin</word>
+	<word weight="0.014705882352941176" count="9">phosphorylation</word>
+	<word weight="0.013071895424836602" count="8">assembly</word>
+	<word weight="0.013071895424836602" count="8">rings</word>
+	<word weight="0.013071895424836602" count="8">mature</word>
+	<word weight="0.00980392156862745" count="6">investigated</word>
+	<word weight="0.00980392156862745" count="6">composition</word>
+	<word weight="0.008169934640522876" count="5">catalytic</word>
+	<word weight="0.008169934640522876" count="5">modifications</word>
+	<word weight="0.008169934640522876" count="5">sites</word>
+	<word weight="0.008169934640522876" count="5">detected</word>
+	<word weight="0.006535947712418301" count="4">gamma-interferon</word>
+	<word weight="0.006535947712418301" count="4">processed</word>
+	<word weight="0.006535947712418301" count="4">isoforms</word>
+	<word weight="0.006535947712418301" count="4">characterized</word>
+	<word weight="0.006535947712418301" count="4">LMP</word>
+	<word weight="0.006535947712418301" count="4">phosphorylated</word>
+	<word weight="0.006535947712418301" count="4">kDa</word>
+	<word weight="0.006535947712418301" count="4">molecular</word>
+	<word weight="0.006535947712418301" count="4">processing</word>
+	<word weight="0.006535947712418301" count="4">reported</word>
+	<phrase weight="0.022222222222222223" count="2">subunit composition</phrase>
+	<phrase weight="0.011111111111111112" count="1">subunit reference</phrase>
+	<phrase weight="0.011111111111111112" count="1">proteasomes macromolecular</phrase>
+	<phrase weight="0.011111111111111112" count="1">mature structure</phrase>
+	<phrase weight="0.011111111111111112" count="1">beta investigated</phrase>
+	<phrase weight="0.011111111111111112" count="1">proteasome regulatory complexes Alternatively complexes</phrase>
+	<phrase weight="0.011111111111111112" count="1">leading heterogeneous</phrase>
+	<phrase weight="0.011111111111111112" count="1">altered molecular</phrase>
+	<phrase weight="0.011111111111111112" count="1">association regulatory complexes</phrase>
+	<phrase weight="0.011111111111111112" count="1">two-dimensional polyacrylamide</phrase>
+	<phrase weight="0.011111111111111112" count="1">total visible</phrase>
+	<phrase weight="0.011111111111111112" count="1">proteasome precursor complexes</phrase>
+	<phrase weight="0.011111111111111112" count="1">erythrocytes exhibited</phrase>
+	<phrase weight="0.011111111111111112" count="1">rings alpha beta subunits beta subunits catalytic</phrase>
+	<phrase weight="0.011111111111111112" count="1">alpha subunits</phrase>
+	<phrase weight="0.011111111111111112" count="1">proteasome subunit beta</phrase>
+	<phrase weight="0.011111111111111112" count="1">proteassemblin beta beta beta suggest proteassemblin regulate</phrase>
+	<phrase weight="0.011111111111111112" count="1">sites proteasome</phrase>
+	<phrase weight="0.011111111111111112" count="1">Coomassie Blue staining isoforms subunit displayed</phrase>
+	<phrase weight="0.011111111111111112" count="1">degree structural heterogeneity characterized</phrase>
+	<phrase weight="0.011111111111111112" count="1">alpha beta subunits constitutive</phrase>
+	<phrase weight="0.011111111111111112" count="1">proteasomes Differences beta subunit propeptides contribute assembly specificity assembly</phrase>
+	<phrase weight="0.011111111111111112" count="1">catalytic core proteasome made stacked rings subunits alpha beta beta alpha</phrase>
+	<phrase weight="0.011111111111111112" count="1">replaced interferon gamma-inducible counterparts form immunoproteasome</phrase>
+	<phrase weight="0.011111111111111112" count="1">advantage efficiency</phrase>
+	<phrase weight="0.011111111111111112" count="1">form proteasome complexes</phrase>
+	<phrase weight="0.011111111111111112" count="1">subunits beta beta Tat-proteasome</phrase>
+	<phrase weight="0.011111111111111112" count="1">hybrid complexes Immunoproteasome subunits</phrase>
+	<phrase weight="0.011111111111111112" count="1">composition proteasome complex</phrase>
+	<phrase weight="0.011111111111111112" count="1">cytoplasm regulatory</phrase>
+  </topic>
+  <topic id="9" alpha="0.007994814631961798" totalTokens="159" titles="sperm, epididymal, location, spermatozoa, nuclear, suggested, washed, luminal, database, male">
+	<word weight="0.050314465408805034" count="8">sperm</word>
+	<word weight="0.031446540880503145" count="5">epididymal</word>
+	<word weight="0.018867924528301886" count="3">location</word>
+	<word weight="0.018867924528301886" count="3">spermatozoa</word>
+	<word weight="0.018867924528301886" count="3">nuclear</word>
+	<word weight="0.012578616352201259" count="2">suggested</word>
+	<word weight="0.012578616352201259" count="2">washed</word>
+	<word weight="0.012578616352201259" count="2">luminal</word>
+	<word weight="0.012578616352201259" count="2">database</word>
+	<word weight="0.012578616352201259" count="2">male</word>
+	<word weight="0.012578616352201259" count="2">egg</word>
+	<word weight="0.012578616352201259" count="2">spermatozoon</word>
+	<word weight="0.012578616352201259" count="2">characterized</word>
+	<word weight="0.012578616352201259" count="2">abundant</word>
+	<word weight="0.012578616352201259" count="2">spots</word>
+	<word weight="0.012578616352201259" count="2">microscopy</word>
+	<word weight="0.012578616352201259" count="2">tail</word>
+	<word weight="0.012578616352201259" count="2">nuclei</word>
+	<word weight="0.012578616352201259" count="2">chromatin</word>
+	<word weight="0.012578616352201259" count="2">gels</word>
+	<word weight="0.006289308176100629" count="1">fertility</word>
+	<word weight="0.006289308176100629" count="1">assessments</word>
+	<word weight="0.006289308176100629" count="1">noninvasive</word>
+	<word weight="0.006289308176100629" count="1">men</word>
+	<word weight="0.006289308176100629" count="1">sterility</word>
+	<word weight="0.006289308176100629" count="1">acting</word>
+	<word weight="0.006289308176100629" count="1">contraceptive</word>
+	<word weight="0.006289308176100629" count="1">posttesticular</word>
+	<word weight="0.006289308176100629" count="1">secreted</word>
+	<word weight="0.006289308176100629" count="1">reflecting</word>
+	<phrase weight="0.030303030303030304" count="1">spermatozoa Antibodies raised recombinant synthetic</phrase>
+	<phrase weight="0.030303030303030304" count="1">MALDI-TOF/MS MALDI-TOF/TOF revealed thousand spots gels</phrase>
+	<phrase weight="0.030303030303030304" count="1">excised analysed</phrase>
+	<phrase weight="0.030303030303030304" count="1">proper fertilization embryo</phrase>
+	<phrase weight="0.030303030303030304" count="1">sperm nuclei</phrase>
+	<phrase weight="0.030303030303030304" count="1">CTAB treatment isolated purity tail fragments acrosome mitochondria assessed</phrase>
+	<phrase weight="0.030303030303030304" count="1">potentially relevant epigenetic</phrase>
+	<phrase weight="0.030303030303030304" count="1">catalogue sperm nuclear</phrase>
+	<phrase weight="0.030303030303030304" count="1">unified terminology reflecting sperm domain location secreted</phrase>
+	<phrase weight="0.030303030303030304" count="1">mammalian spermatozoon</phrase>
+	<phrase weight="0.030303030303030304" count="1">contraceptive acting</phrase>
+	<phrase weight="0.030303030303030304" count="1">factors sperm chromatin</phrase>
+	<phrase weight="0.030303030303030304" count="1">ability move bind fuse penetrate egg male infertility</phrase>
+	<phrase weight="0.030303030303030304" count="1">extracted separated gels spots</phrase>
+	<phrase weight="0.030303030303030304" count="1">paternal chromatin transmitted oocyte</phrase>
+	<phrase weight="0.030303030303030304" count="1">epididymal sperm-located</phrase>
+	<phrase weight="0.030303030303030304" count="1">female reproductive tract fertilize egg acquires fertilizing</phrase>
+	<phrase weight="0.030303030303030304" count="1">characterized work</phrase>
+	<phrase weight="0.030303030303030304" count="1">tail permitting</phrase>
+	<phrase weight="0.030303030303030304" count="1">zinc fingers</phrase>
+	<phrase weight="0.030303030303030304" count="1">locations washed functional spermatozoa Sperm</phrase>
+	<phrase weight="0.030303030303030304" count="1">generate database</phrase>
+	<phrase weight="0.030303030303030304" count="1">oxidative attack large database</phrase>
+	<phrase weight="0.030303030303030304" count="1">microscopy transmission electron microscopy nuclear</phrase>
+	<phrase weight="0.030303030303030304" count="1">epididymis secretes</phrase>
+	<phrase weight="0.030303030303030304" count="1">sperm nuclei abundant</phrase>
+	<phrase weight="0.030303030303030304" count="1">gel electrophoresis epididymal tissue luminal fluid</phrase>
+	<phrase weight="0.030303030303030304" count="1">coat sperm</phrase>
+	<phrase weight="0.030303030303030304" count="1">characterized size chromosomal location</phrase>
+	<phrase weight="0.030303030303030304" count="1">location epididymal epithelium highly</phrase>
+  </topic>
+  <topic id="10" alpha="0.023792985426723406" totalTokens="256" titles="ubiquitination, ubiquitinated, HRD, degradation, ligase, HUWE, sensitive, chain, chains, DDIT">
+	<word weight="0.0390625" count="10">ubiquitination</word>
+	<word weight="0.03515625" count="9">ubiquitinated</word>
+	<word weight="0.0234375" count="6">HRD</word>
+	<word weight="0.0234375" count="6">degradation</word>
+	<word weight="0.01953125" count="5">ligase</word>
+	<word weight="0.015625" count="4">HUWE</word>
+	<word weight="0.015625" count="4">sensitive</word>
+	<word weight="0.015625" count="4">chain</word>
+	<word weight="0.015625" count="4">chains</word>
+	<word weight="0.01171875" count="3">DDIT</word>
+	<word weight="0.01171875" count="3">UPS</word>
+	<word weight="0.01171875" count="3">USP</word>
+	<word weight="0.01171875" count="3">groups</word>
+	<word weight="0.01171875" count="3">enrich</word>
+	<word weight="0.01171875" count="3">specifically</word>
+	<word weight="0.01171875" count="3">endoplasmic</word>
+	<word weight="0.01171875" count="3">nonsecreted</word>
+	<word weight="0.01171875" count="3">antibodies</word>
+	<word weight="0.01171875" count="3">method</word>
+	<word weight="0.0078125" count="2">inducible</word>
+	<word weight="0.0078125" count="2">ε-amino</word>
+	<word weight="0.0078125" count="2">deubiquitinase</word>
+	<word weight="0.0078125" count="2">removed</word>
+	<word weight="0.0078125" count="2">recognizing</word>
+	<word weight="0.0078125" count="2">tagged</word>
+	<word weight="0.0078125" count="2">COFRADIC</word>
+	<word weight="0.0078125" count="2">amino</word>
+	<word weight="0.0078125" count="2">blocked</word>
+	<word weight="0.0078125" count="2">therapeutic</word>
+	<word weight="0.0078125" count="2">domain</word>
+	<phrase weight="0.03225806451612903" count="1">trypsinolysis provided</phrase>
+	<phrase weight="0.03225806451612903" count="1">ε-amino groups</phrase>
+	<phrase weight="0.03225806451612903" count="1">regulates ubiquitination stability DDIT data suggest</phrase>
+	<phrase weight="0.03225806451612903" count="1">C-terminus ε-amino</phrase>
+	<phrase weight="0.03225806451612903" count="1">degradation proteins</phrase>
+	<phrase weight="0.03225806451612903" count="1">chains proteolytically specifically removed catalytic core domain USP deubiquitinase USP USP cleaves isopeptidyl bond</phrase>
+	<phrase weight="0.03225806451612903" count="1">rheumatoid arthritis disease-relevant</phrase>
+	<phrase weight="0.03225806451612903" count="1">diseases challenges</phrase>
+	<phrase weight="0.03225806451612903" count="1">advantageous method</phrase>
+	<phrase weight="0.03225806451612903" count="1">sensitive HRD</phrase>
+	<phrase weight="0.03225806451612903" count="1">COFRADIC technology enrich ubiquitinated</phrase>
+	<phrase weight="0.03225806451612903" count="1">endoplasmic reticulum</phrase>
+	<phrase weight="0.03225806451612903" count="1">strategies furthering</phrase>
+	<phrase weight="0.03225806451612903" count="1">system UPS</phrase>
+	<phrase weight="0.03225806451612903" count="1">ligase ligase implicated</phrase>
+	<phrase weight="0.03225806451612903" count="1">majority ubiquitination</phrase>
+	<phrase weight="0.03225806451612903" count="1">groups blocked chemical</phrase>
+	<phrase weight="0.03225806451612903" count="1">studies disposal nonsecreted chains</phrase>
+	<phrase weight="0.03225806451612903" count="1">ubiquitin sequence-biased antibodies recognizing</phrase>
+	<phrase weight="0.03225806451612903" count="1">address question implemented inducible</phrase>
+	<phrase weight="0.03225806451612903" count="1">apparent qualitatively</phrase>
+	<phrase weight="0.03225806451612903" count="1">degradation examine degradation nonsecreted chain experimentally endoplasmic reticulum-retained secretion-competent chain absence chains demonstrate degradation specifically impaired proteasome-specific inhibitors carboxybenzyl-leucyl-leucyl-leucine vinyl sulfone Z-L lactacystin chain degradation occurs early biosynthetic pathway degradation require vesicular transport</phrase>
+	<phrase weight="0.03225806451612903" count="1">concept inducible</phrase>
+	<phrase weight="0.03225806451612903" count="1">recognizing Lys-ϵ-Gly-Gly</phrase>
+	<phrase weight="0.03225806451612903" count="1">landscape ubiquitination</phrase>
+	<phrase weight="0.03225806451612903" count="1">protein-based peptide-based</phrase>
+	<phrase weight="0.03225806451612903" count="1">amino groups chemically modified handle</phrase>
+	<phrase weight="0.03225806451612903" count="1">exists HRD</phrase>
+	<phrase weight="0.03225806451612903" count="1">subsequent COFRADIC</phrase>
+	<phrase weight="0.03225806451612903" count="1">COmbined FRActional DIagonal</phrase>
+  </topic>
+  <topic id="11" alpha="0.10826688521630656" totalTokens="660" titles="proteasome, complex, activity, site, Tat, addition, proteolytic, vivo, Plk, mechanism">
+	<word weight="0.08484848484848485" count="56">proteasome</word>
+	<word weight="0.051515151515151514" count="34">complex</word>
+	<word weight="0.025757575757575757" count="17">activity</word>
+	<word weight="0.024242424242424242" count="16">site</word>
+	<word weight="0.01818181818181818" count="12">Tat</word>
+	<word weight="0.015151515151515152" count="10">addition</word>
+	<word weight="0.015151515151515152" count="10">proteolytic</word>
+	<word weight="0.015151515151515152" count="10">vivo</word>
+	<word weight="0.013636363636363636" count="9">Plk</word>
+	<word weight="0.013636363636363636" count="9">mechanism</word>
+	<word weight="0.013636363636363636" count="9">formation</word>
+	<word weight="0.012121212121212121" count="8">forms</word>
+	<word weight="0.012121212121212121" count="8">presentation</word>
+	<word weight="0.012121212121212121" count="8">show</word>
+	<word weight="0.012121212121212121" count="8">regulator</word>
+	<word weight="0.012121212121212121" count="8">protein</word>
+	<word weight="0.010606060606060607" count="7">residues</word>
+	<word weight="0.010606060606060607" count="7">proteasomal</word>
+	<word weight="0.010606060606060607" count="7">role</word>
+	<word weight="0.010606060606060607" count="7">found</word>
+	<word weight="0.00909090909090909" count="6">amino</word>
+	<word weight="0.00909090909090909" count="6">core</word>
+	<word weight="0.00909090909090909" count="6">immunodeficiency</word>
+	<word weight="0.007575757575757576" count="5">REGalpha</word>
+	<word weight="0.007575757575757576" count="5">Lys</word>
+	<word weight="0.007575757575757576" count="5">activities</word>
+	<word weight="0.007575757575757576" count="5">acid</word>
+	<word weight="0.007575757575757576" count="5">process</word>
+	<word weight="0.007575757575757576" count="5">pathway</word>
+	<word weight="0.007575757575757576" count="5">nascent</word>
+	<phrase weight="0.030303030303030304" count="2">active site</phrase>
+	<phrase weight="0.015151515151515152" count="1">REGbeta binds proteasome REGalpha RTP site needed enhance presentation</phrase>
+	<phrase weight="0.015151515151515152" count="1">part ATP-dependent</phrase>
+	<phrase weight="0.015151515151515152" count="1">proteolytic complex</phrase>
+	<phrase weight="0.015151515151515152" count="1">regulator proteasome regulator implied generation antigenic peptides</phrase>
+	<phrase weight="0.015151515151515152" count="1">presentation MHC</phrase>
+	<phrase weight="0.015151515151515152" count="1">proteasomes study</phrase>
+	<phrase weight="0.015151515151515152" count="1">tetratricopeptide repeats</phrase>
+	<phrase weight="0.015151515151515152" count="1">metabolic labeling</phrase>
+	<phrase weight="0.015151515151515152" count="1">Major advances achieved recently</phrase>
+	<phrase weight="0.015151515151515152" count="1">Tat binds</phrase>
+	<phrase weight="0.015151515151515152" count="1">mammalian proteasome biogenesis--interacts membranes binds</phrase>
+	<phrase weight="0.015151515151515152" count="1">detect Plk</phrase>
+	<phrase weight="0.015151515151515152" count="1">forms found</phrase>
+	<phrase weight="0.015151515151515152" count="1">recruits beta-subunits stepwise mediates association mammalian</phrase>
+	<phrase weight="0.015151515151515152" count="1">associates proteasome</phrase>
+	<phrase weight="0.015151515151515152" count="1">presentation immature</phrase>
+	<phrase weight="0.015151515151515152" count="1">vitro vivo</phrase>
+	<phrase weight="0.015151515151515152" count="1">Plk partially responsible</phrase>
+	<phrase weight="0.015151515151515152" count="1">Plk proteasome</phrase>
+	<phrase weight="0.015151515151515152" count="1">proteasome multiple peptidase activities</phrase>
+	<phrase weight="0.015151515151515152" count="1">confirmed complementary</phrase>
+	<phrase weight="0.015151515151515152" count="1">coprecipitated Plk</phrase>
+	<phrase weight="0.015151515151515152" count="1">findings suggest proteasome</phrase>
+	<phrase weight="0.015151515151515152" count="1">explain mechanism</phrase>
+	<phrase weight="0.015151515151515152" count="1">peptidase activity distinct</phrase>
+	<phrase weight="0.015151515151515152" count="1">show main steps core complex formation</phrase>
+	<phrase weight="0.015151515151515152" count="1">binding proteasome Structural comparison revealed common site Tat protein regulator alpha-subunit REGalpha called REG/Tat-proteasome-binding RTP site Kinetic assays found amino acid residues Lys Arg Asp forming RTP site Tat responsible</phrase>
+	<phrase weight="0.015151515151515152" count="1">binding TEV</phrase>
+	<phrase weight="0.015151515151515152" count="1">association regulator</phrase>
+  </topic>
+  <topic id="12" alpha="0.0360687221859613" totalTokens="294" titles="interaction, interactions, yeast, liver, quantitative, two-hybrid, valuable, data, network, protein-protein">
+	<word weight="0.05782312925170068" count="17">interaction</word>
+	<word weight="0.05442176870748299" count="16">interactions</word>
+	<word weight="0.023809523809523808" count="7">yeast</word>
+	<word weight="0.017006802721088437" count="5">liver</word>
+	<word weight="0.017006802721088437" count="5">quantitative</word>
+	<word weight="0.017006802721088437" count="5">two-hybrid</word>
+	<word weight="0.013605442176870748" count="4">valuable</word>
+	<word weight="0.013605442176870748" count="4">data</word>
+	<word weight="0.013605442176870748" count="4">network</word>
+	<word weight="0.013605442176870748" count="4">protein-protein</word>
+	<word weight="0.013605442176870748" count="4">DNA</word>
+	<word weight="0.01020408163265306" count="3">PIPs</word>
+	<word weight="0.01020408163265306" count="3">hINO</word>
+	<word weight="0.01020408163265306" count="3">ataxin</word>
+	<word weight="0.01020408163265306" count="3">huntingtin</word>
+	<word weight="0.01020408163265306" count="3">procedure</word>
+	<word weight="0.01020408163265306" count="3">screening</word>
+	<word weight="0.01020408163265306" count="3">PPI</word>
+	<word weight="0.01020408163265306" count="3">screens</word>
+	<word weight="0.01020408163265306" count="3">large</word>
+	<word weight="0.01020408163265306" count="3">organisms</word>
+	<word weight="0.01020408163265306" count="3">maps</word>
+	<word weight="0.006802721088435374" count="2">HAUSP</word>
+	<word weight="0.006802721088435374" count="2">cross-linking</word>
+	<word weight="0.006802721088435374" count="2">formaldehyde</word>
+	<word weight="0.006802721088435374" count="2">partners</word>
+	<word weight="0.006802721088435374" count="2">Uch</word>
+	<word weight="0.006802721088435374" count="2">partner</word>
+	<word weight="0.006802721088435374" count="2">microarrays</word>
+	<word weight="0.006802721088435374" count="2">systematic</word>
+	<phrase weight="0.03333333333333333" count="2">protein-protein interactions</phrase>
+	<phrase weight="0.016666666666666666" count="1">experimentally characterizing ANP CRMP modulators Wnt</phrase>
+	<phrase weight="0.016666666666666666" count="1">DNA microarray data quantitative</phrase>
+	<phrase weight="0.016666666666666666" count="1">interactions C-termini</phrase>
+	<phrase weight="0.016666666666666666" count="1">specificity flexibility DNA microarrays existence</phrase>
+	<phrase weight="0.016666666666666666" count="1">quantitative PPI detection Applying global pooling</phrase>
+	<phrase weight="0.016666666666666666" count="1">interactions human</phrase>
+	<phrase weight="0.016666666666666666" count="1">ubiquitin-protein conjugates</phrase>
+	<phrase weight="0.016666666666666666" count="1">connected network Independent</phrase>
+	<phrase weight="0.016666666666666666" count="1">organisms ranging</phrase>
+	<phrase weight="0.016666666666666666" count="1">sample starting</phrase>
+	<phrase weight="0.016666666666666666" count="1">consisted reverse</phrase>
+	<phrase weight="0.016666666666666666" count="1">purified proteasomes</phrase>
+	<phrase weight="0.016666666666666666" count="1">assays network</phrase>
+	<phrase weight="0.016666666666666666" count="1">adapted purify existing</phrase>
+	<phrase weight="0.016666666666666666" count="1">HLPN valuable tool</phrase>
+	<phrase weight="0.016666666666666666" count="1">interaction maps</phrase>
+	<phrase weight="0.016666666666666666" count="1">HAUSP bait Altogether</phrase>
+	<phrase weight="0.016666666666666666" count="1">polyubiquitin chains</phrase>
+	<phrase weight="0.016666666666666666" count="1">valuable framework</phrase>
+	<phrase weight="0.016666666666666666" count="1">USP HAUSP</phrase>
+	<phrase weight="0.016666666666666666" count="1">propeptide interactions</phrase>
+	<phrase weight="0.016666666666666666" count="1">automated yeast two-hybrid</phrase>
+	<phrase weight="0.016666666666666666" count="1">huntingtin ataxin show parallelized screening procedure global inspection interaction data uniquely</phrase>
+	<phrase weight="0.016666666666666666" count="1">hINO hINO Uch</phrase>
+	<phrase weight="0.016666666666666666" count="1">quantitative benchmarking</phrase>
+	<phrase weight="0.016666666666666666" count="1">valuable tool</phrase>
+	<phrase weight="0.016666666666666666" count="1">neurodegenerative disease</phrase>
+	<phrase weight="0.016666666666666666" count="1">method mapping</phrase>
+	<phrase weight="0.016666666666666666" count="1">scored large number partner</phrase>
+  </topic>
+  <topic id="13" alpha="0.016415389409831747" totalTokens="255" titles="cancer, tissue, PSMB, SRP, PRDX, PSB, patients, expression, enrichment, resistant">
+	<word weight="0.0392156862745098" count="10">cancer</word>
+	<word weight="0.027450980392156862" count="7">tissue</word>
+	<word weight="0.023529411764705882" count="6">PSMB</word>
+	<word weight="0.0196078431372549" count="5">SRP</word>
+	<word weight="0.0196078431372549" count="5">PRDX</word>
+	<word weight="0.0196078431372549" count="5">PSB</word>
+	<word weight="0.0196078431372549" count="5">patients</word>
+	<word weight="0.0196078431372549" count="5">expression</word>
+	<word weight="0.01568627450980392" count="4">enrichment</word>
+	<word weight="0.01568627450980392" count="4">resistant</word>
+	<word weight="0.01568627450980392" count="4">treatment</word>
+	<word weight="0.011764705882352941" count="3">heparin</word>
+	<word weight="0.011764705882352941" count="3">adenocarcinomas</word>
+	<word weight="0.011764705882352941" count="3">colon</word>
+	<word weight="0.011764705882352941" count="3">quantification</word>
+	<word weight="0.011764705882352941" count="3">doxorubicin</word>
+	<word weight="0.011764705882352941" count="3">biomarkers</word>
+	<word weight="0.011764705882352941" count="3">breast</word>
+	<word weight="0.011764705882352941" count="3">lines</word>
+	<word weight="0.011764705882352941" count="3">survival</word>
+	<word weight="0.011764705882352941" count="3">gene</word>
+	<word weight="0.00784313725490196" count="2">up-regulation</word>
+	<word weight="0.00784313725490196" count="2">differentially</word>
+	<word weight="0.00784313725490196" count="2">HAFE</word>
+	<word weight="0.00784313725490196" count="2">colorectal</word>
+	<word weight="0.00784313725490196" count="2">cytoplasmic</word>
+	<word weight="0.00784313725490196" count="2">Global</word>
+	<word weight="0.00784313725490196" count="2">localization</word>
+	<word weight="0.00784313725490196" count="2">decreased</word>
+	<word weight="0.00784313725490196" count="2">samples</word>
+	<phrase weight="0.02702702702702703" count="1">silenced gene</phrase>
+	<phrase weight="0.02702702702702703" count="1">limited large dynamic range molecule concentrations tissues lack selective enrichment low-abundance</phrase>
+	<phrase weight="0.02702702702702703" count="1">findings suggest</phrase>
+	<phrase weight="0.02702702702702703" count="1">cytoplasmic nuclear localization PSB predominantly cytoplasmic localization PRDX SRP summary</phrase>
+	<phrase weight="0.02702702702702703" count="1">biomarkers early detection cancer progression</phrase>
+	<phrase weight="0.02702702702702703" count="1">studies clinical validation.contrasted expression profiles pairs</phrase>
+	<phrase weight="0.02702702702702703" count="1">selected differentially expressed</phrase>
+	<phrase weight="0.02702702702702703" count="1">heparin affinity enrichment MS/MS</phrase>
+	<phrase weight="0.02702702702702703" count="1">tissue specimens patients colorectal adenocarcinomas heparin affinity fractionation enrichment HAFE PAGE</phrase>
+	<phrase weight="0.02702702702702703" count="1">functionally related tissue hypoxia hypoxic</phrase>
+	<phrase weight="0.02702702702702703" count="1">lines counterparts resistant doxorubicin Observed overexpression PSMB resistant</phrase>
+	<phrase weight="0.02702702702702703" count="1">Western blot</phrase>
+	<phrase weight="0.02702702702702703" count="1">doxorubicin-resistant MCF breast cancer</phrase>
+	<phrase weight="0.02702702702702703" count="1">tissue Global quantification</phrase>
+	<phrase weight="0.02702702702702703" count="1">PSB hemoglobin alpha</phrase>
+	<phrase weight="0.02702702702702703" count="1">breast cancer gene expression patterns attributable chemotherapy-resistant</phrase>
+	<phrase weight="0.02702702702702703" count="1">restricted neoplastic cancer</phrase>
+	<phrase weight="0.02702702702702703" count="1">shorter survival patients</phrase>
+	<phrase weight="0.02702702702702703" count="1">population tumors</phrase>
+	<phrase weight="0.02702702702702703" count="1">survived Silencing PSMB resistant</phrase>
+	<phrase weight="0.02702702702702703" count="1">immunohistochemistry examine</phrase>
+	<phrase weight="0.02702702702702703" count="1">underlying pathogenetic</phrase>
+	<phrase weight="0.02702702702702703" count="1">tumor tissue Overexpression</phrase>
+	<phrase weight="0.02702702702702703" count="1">locations PSB PRDX SRP up-regulation heterogeneous</phrase>
+	<phrase weight="0.02702702702702703" count="1">PSMB expression</phrase>
+	<phrase weight="0.02702702702702703" count="1">fractionation enrichment HAFE</phrase>
+	<phrase weight="0.02702702702702703" count="1">HBA peroxiredoxin PRDX argininosuccinate synthase ASSY signal</phrase>
+	<phrase weight="0.02702702702702703" count="1">detect potential biomarkers related anthracycline resistance genes PSMB selected</phrase>
+	<phrase weight="0.02702702702702703" count="1">date individual markers failed correctly predict resistance anticancer</phrase>
+	<phrase weight="0.02702702702702703" count="1">samples.er doxorubicin treatment resistant</phrase>
+  </topic>
+  <topic id="14" alpha="0.029743010195902617" totalTokens="349" titles="Cdh, NEDL, cyclin, APC/C, degradation, mitosis, ligase, anaphase, metaphase, mitotic">
+	<word weight="0.045845272206303724" count="16">Cdh</word>
+	<word weight="0.04297994269340974" count="15">NEDL</word>
+	<word weight="0.034383954154727794" count="12">cyclin</word>
+	<word weight="0.03151862464183381" count="11">APC/C</word>
+	<word weight="0.03151862464183381" count="11">degradation</word>
+	<word weight="0.025787965616045846" count="9">mitosis</word>
+	<word weight="0.022922636103151862" count="8">ligase</word>
+	<word weight="0.02005730659025788" count="7">APC</word>
+	<word weight="0.02005730659025788" count="7">anaphase</word>
+	<word weight="0.02005730659025788" count="7">metaphase</word>
+	<word weight="0.017191977077363897" count="6">mitotic</word>
+	<word weight="0.017191977077363897" count="6">destruction</word>
+	<word weight="0.017191977077363897" count="6">ubiquitin</word>
+	<word weight="0.014326647564469915" count="5">transition</word>
+	<word weight="0.014326647564469915" count="5">level</word>
+	<word weight="0.011461318051575931" count="4">checkpoint</word>
+	<word weight="0.011461318051575931" count="4">Emi</word>
+	<word weight="0.011461318051575931" count="4">activation</word>
+	<word weight="0.011461318051575931" count="4">Cdc</word>
+	<word weight="0.011461318051575931" count="4">cycle</word>
+	<word weight="0.008595988538681949" count="3">spindle</word>
+	<word weight="0.008595988538681949" count="3">exit</word>
+	<word weight="0.008595988538681949" count="3">anaphase-promoting</word>
+	<word weight="0.008595988538681949" count="3">HECT</word>
+	<word weight="0.008595988538681949" count="3">observations</word>
+	<word weight="0.008595988538681949" count="3">type</word>
+	<word weight="0.008595988538681949" count="3">assembly</word>
+	<word weight="0.008595988538681949" count="3">overexpression</word>
+	<word weight="0.0057306590257879654" count="2">list</word>
+	<word weight="0.0057306590257879654" count="2">Overexpression</word>
+	<phrase weight="0.022727272727272728" count="1">delaying APC activation Emi</phrase>
+	<phrase weight="0.022727272727272728" count="1">enter mitosis completely</phrase>
+	<phrase weight="0.022727272727272728" count="1">cyclin B/Cdc prematurely activate APC early mitosis</phrase>
+	<phrase weight="0.022727272727272728" count="1">spindle assembly checkpoint data suggest APC/C activated</phrase>
+	<phrase weight="0.022727272727272728" count="1">Cdh Xenopus interphase</phrase>
+	<phrase weight="0.022727272727272728" count="1">level NEDL</phrase>
+	<phrase weight="0.022727272727272728" count="1">ubiquitin ligase NEDL HECT type ubiquitin ligase NEDL enhances transcriptional</phrase>
+	<phrase weight="0.022727272727272728" count="1">mitotic spindles</phrase>
+	<phrase weight="0.022727272727272728" count="1">longer cyclin Overexpression</phrase>
+	<phrase weight="0.022727272727272728" count="1">phases destabilized</phrase>
+	<phrase weight="0.022727272727272728" count="1">level NEDL effect NEDL mRNA level NEDL</phrase>
+	<phrase weight="0.022727272727272728" count="1">metaphase stabilized cyclins Cyclin efficiently polyubiquitylated Cdc Cdh activated APC/C vitro contrast cyclin proteolysis cyclin delayed spindle assembly checkpoint degradation cyclin accelerated</phrase>
+	<phrase weight="0.022727272727272728" count="1">NEDL depletion prolongs metaphase overexpression NEDL induces chromosomal lagging Elevated</phrase>
+	<phrase weight="0.022727272727272728" count="1">degrades ATR</phrase>
+	<phrase weight="0.022727272727272728" count="1">APC/C demonstrate Cdh subject APC/C-specific degradation degradation depends RXXL-type destruction boxes demonstrate</phrase>
+	<phrase weight="0.022727272727272728" count="1">cyclin delayed metaphase anaphase transition</phrase>
+	<phrase weight="0.022727272727272728" count="1">APC/C Cdh</phrase>
+	<phrase weight="0.022727272727272728" count="1">Anaphase-Promoting Complex/Cyclosome APC/C ubiquitin ligase mediates degradation</phrase>
+	<phrase weight="0.022727272727272728" count="1">reaches maximum mitosis</phrase>
+	<phrase weight="0.022727272727272728" count="1">lamin misexpressed</phrase>
+	<phrase weight="0.022727272727272728" count="1">NEDL destruction boxes GSL targets degradation APC/C-dependent manner mitotic exit Overexpression Cdh reduces</phrase>
+	<phrase weight="0.022727272727272728" count="1">exit mitosis</phrase>
+	<phrase weight="0.022727272727272728" count="1">mitosis inactive bind APC/C</phrase>
+	<phrase weight="0.022727272727272728" count="1">type ubiquitin ligase</phrase>
+	<phrase weight="0.022727272727272728" count="1">APC cyclin destruction mitotic exit</phrase>
+	<phrase weight="0.022727272727272728" count="1">Cdh increases</phrase>
+	<phrase weight="0.022727272727272728" count="1">mitotic deficiencies Drosophila Slimb/betaTrCP mutants hypothesize Emi destruction relieves late</phrase>
+	<phrase weight="0.022727272727272728" count="1">APC show Emi phosphorylated Cdc</phrase>
+	<phrase weight="0.022727272727272728" count="1">Cdc fizzy arrested</phrase>
+	<phrase weight="0.022727272727272728" count="1">vitro Cdh</phrase>
+  </topic>
+  <topic id="15" alpha="0.015626775130446125" totalTokens="219" titles="LMP, IFN-gamma, class, MHC, i-proteasomes, immunoproteasomes, MECL, responsible, findings, induced">
+	<word weight="0.0684931506849315" count="15">LMP</word>
+	<word weight="0.0319634703196347" count="7">IFN-gamma</word>
+	<word weight="0.0228310502283105" count="5">class</word>
+	<word weight="0.0182648401826484" count="4">MHC</word>
+	<word weight="0.0182648401826484" count="4">i-proteasomes</word>
+	<word weight="0.0182648401826484" count="4">immunoproteasomes</word>
+	<word weight="0.0182648401826484" count="4">MECL</word>
+	<word weight="0.0136986301369863" count="3">responsible</word>
+	<word weight="0.0136986301369863" count="3">findings</word>
+	<word weight="0.0136986301369863" count="3">induced</word>
+	<word weight="0.0136986301369863" count="3">production</word>
+	<word weight="0.0136986301369863" count="3">antigens</word>
+	<word weight="0.0136986301369863" count="3">response</word>
+	<word weight="0.0136986301369863" count="3">contributes</word>
+	<word weight="0.0136986301369863" count="3">cells</word>
+	<word weight="0.0091324200913242" count="2">replacements</word>
+	<word weight="0.0091324200913242" count="2">alpha/beta</word>
+	<word weight="0.0091324200913242" count="2">limited</word>
+	<word weight="0.0091324200913242" count="2">induces</word>
+	<word weight="0.0091324200913242" count="2">phenomenon</word>
+	<word weight="0.0091324200913242" count="2">down-regulation</word>
+	<word weight="0.0091324200913242" count="2">immune</word>
+	<word weight="0.0091324200913242" count="2">antigen</word>
+	<word weight="0.0091324200913242" count="2">peptide</word>
+	<word weight="0.0091324200913242" count="2">murine</word>
+	<word weight="0.0091324200913242" count="2">IFNs</word>
+	<word weight="0.0091324200913242" count="2">stress</word>
+	<word weight="0.0091324200913242" count="2">oxidative</word>
+	<word weight="0.0091324200913242" count="2">IFN-induced</word>
+	<word weight="0.0091324200913242" count="2">viability</word>
+	<phrase weight="0.021739130434782608" count="1">making down-regulation</phrase>
+	<phrase weight="0.021739130434782608" count="1">production class antigens i-proteasomes increase peptide supply antigen</phrase>
+	<phrase weight="0.021739130434782608" count="1">express nonfunctional immunosubunit-variant LMP</phrase>
+	<phrase weight="0.021739130434782608" count="1">center findings</phrase>
+	<phrase weight="0.021739130434782608" count="1">concomitantly upregulated response IFNs</phrase>
+	<phrase weight="0.021739130434782608" count="1">CTLs Immunoproteasomes</phrase>
+	<phrase weight="0.021739130434782608" count="1">constitutive immunoproteasomes extent</phrase>
+	<phrase weight="0.021739130434782608" count="1">replacements LMP LMP MECL producing proteasomes responsible immunological</phrase>
+	<phrase weight="0.021739130434782608" count="1">production immunoproteasomes</phrase>
+	<phrase weight="0.021739130434782608" count="1">response IFN-gamma Molecular cloning cDNA encoding</phrase>
+	<phrase weight="0.021739130434782608" count="1">LMP LMP MECL</phrase>
+	<phrase weight="0.021739130434782608" count="1">IFN-induced oxidative stress IFNs trigger production reactive oxygen species induce</phrase>
+	<phrase weight="0.021739130434782608" count="1">products DRiPs</phrase>
+	<phrase weight="0.021739130434782608" count="1">sensitivity apoptosis Efficient clearance aggregates enhanced</phrase>
+	<phrase weight="0.021739130434782608" count="1">LMP consequent down-regulation LMP</phrase>
+	<phrase weight="0.021739130434782608" count="1">target defective</phrase>
+	<phrase weight="0.021739130434782608" count="1">derived tumors</phrase>
+	<phrase weight="0.021739130434782608" count="1">aggresome-like induced structures</phrase>
+	<phrase weight="0.021739130434782608" count="1">LMP cells restores S-deficient</phrase>
+	<phrase weight="0.021739130434782608" count="1">MHC class I-restricted</phrase>
+	<phrase weight="0.021739130434782608" count="1">LMP response IFN-gamma preferential</phrase>
+	<phrase weight="0.021739130434782608" count="1">Previously reported</phrase>
+	<phrase weight="0.021739130434782608" count="1">IFN gamma induces replacements</phrase>
+	<phrase weight="0.021739130434782608" count="1">designated downregulated IFN-gamma showed</phrase>
+	<phrase weight="0.021739130434782608" count="1">X/LMP Y/LMP Z/MECL terminal</phrase>
+	<phrase weight="0.021739130434782608" count="1">MHC class</phrase>
+	<phrase weight="0.021739130434782608" count="1">immunoproteasomes maturing slow occurred minor</phrase>
+	<phrase weight="0.021739130434782608" count="1">induced IFN-gamma IFN-gamma induces</phrase>
+	<phrase weight="0.021739130434782608" count="1">limited transcriptional induction LMP MECL</phrase>
+	<phrase weight="0.021739130434782608" count="1">MHC class antigens</phrase>
+  </topic>
+  <topic id="16" alpha="0.29739546064026495" totalTokens="1532" titles="proteins, human, cells, identified, cellular, function, study, results, role, mass">
+	<word weight="0.0731070496083551" count="112">proteins</word>
+	<word weight="0.0391644908616188" count="60">human</word>
+	<word weight="0.03590078328981723" count="55">protein</word>
+	<word weight="0.03263707571801567" count="50">cells</word>
+	<word weight="0.020234986945169713" count="31">identified</word>
+	<word weight="0.0195822454308094" count="30">cell</word>
+	<word weight="0.016971279373368148" count="26">cellular</word>
+	<word weight="0.015665796344647518" count="24">function</word>
+	<word weight="0.01370757180156658" count="21">study</word>
+	<word weight="0.012402088772845953" count="19">results</word>
+	<word weight="0.01174934725848564" count="18">role</word>
+	<word weight="0.01174934725848564" count="18">mass</word>
+	<word weight="0.011096605744125326" count="17">identify</word>
+	<word weight="0.0097911227154047" count="15">level</word>
+	<word weight="0.0097911227154047" count="15">expression</word>
+	<word weight="0.0097911227154047" count="15">analysis</word>
+	<word weight="0.0097911227154047" count="15">processes</word>
+	<word weight="0.009138381201044387" count="14">regulatory</word>
+	<word weight="0.009138381201044387" count="14">important</word>
+	<word weight="0.008485639686684074" count="13">cancer</word>
+	<word weight="0.008485639686684074" count="13">identification</word>
+	<word weight="0.007832898172323759" count="12">functions</word>
+	<word weight="0.007832898172323759" count="12">provide</word>
+	<word weight="0.007180156657963447" count="11">system</word>
+	<word weight="0.007180156657963447" count="11">understanding</word>
+	<word weight="0.007180156657963447" count="11">regulation</word>
+	<word weight="0.007180156657963447" count="11">peptides</word>
+	<word weight="0.006527415143603133" count="10">pathway</word>
+	<word weight="0.006527415143603133" count="10">proteomic</word>
+	<word weight="0.006527415143603133" count="10">critical</word>
+	<phrase weight="0.017777777777777778" count="4">mass spectrometry</phrase>
+	<phrase weight="0.013333333333333334" count="3">human cells</phrase>
+	<phrase weight="0.013333333333333334" count="3">proteins identified</phrase>
+	<phrase weight="0.008888888888888889" count="2">human proteins</phrase>
+	<phrase weight="0.008888888888888889" count="2">regulatory mechanism</phrase>
+	<phrase weight="0.008888888888888889" count="2">identified LC-MS/MS</phrase>
+	<phrase weight="0.008888888888888889" count="2">critical role</phrase>
+	<phrase weight="0.0044444444444444444" count="1">conditions results</phrase>
+	<phrase weight="0.0044444444444444444" count="1">important step elucidate</phrase>
+	<phrase weight="0.0044444444444444444" count="1">provide cells</phrase>
+	<phrase weight="0.0044444444444444444" count="1">proteins network searched</phrase>
+	<phrase weight="0.0044444444444444444" count="1">Advances mass spectrometry development</phrase>
+	<phrase weight="0.0044444444444444444" count="1">alternations gene expression human</phrase>
+	<phrase weight="0.0044444444444444444" count="1">protein interaction</phrase>
+	<phrase weight="0.0044444444444444444" count="1">analysis study</phrase>
+	<phrase weight="0.0044444444444444444" count="1">transport interaction</phrase>
+	<phrase weight="0.0044444444444444444" count="1">human ubiquitin-modified proteome</phrase>
+	<phrase weight="0.0044444444444444444" count="1">identified identify</phrase>
+	<phrase weight="0.0044444444444444444" count="1">proteins native human</phrase>
+	<phrase weight="0.0044444444444444444" count="1">functioning protein</phrase>
+	<phrase weight="0.0044444444444444444" count="1">starting protein</phrase>
+	<phrase weight="0.0044444444444444444" count="1">analysis low quantities</phrase>
+	<phrase weight="0.0044444444444444444" count="1">identification proteins</phrase>
+	<phrase weight="0.0044444444444444444" count="1">results provide</phrase>
+	<phrase weight="0.0044444444444444444" count="1">proteomic QUAINT</phrase>
+	<phrase weight="0.0044444444444444444" count="1">cells suggesting</phrase>
+	<phrase weight="0.0044444444444444444" count="1">proteomics led establishment</phrase>
+	<phrase weight="0.0044444444444444444" count="1">human cancer</phrase>
+	<phrase weight="0.0044444444444444444" count="1">define protein</phrase>
+	<phrase weight="0.0044444444444444444" count="1">mating identified</phrase>
+  </topic>
+  <topic id="17" alpha="0.013906728490954675" totalTokens="211" titles="defects, LGALS, vif, Delta, Hedgehog, centrosome, neural, retinal, NPHP, centriolar">
+	<word weight="0.02843601895734597" count="6">defects</word>
+	<word weight="0.023696682464454975" count="5">LGALS</word>
+	<word weight="0.018957345971563982" count="4">vif</word>
+	<word weight="0.018957345971563982" count="4">Delta</word>
+	<word weight="0.018957345971563982" count="4">Hedgehog</word>
+	<word weight="0.018957345971563982" count="4">centrosome</word>
+	<word weight="0.014218009478672985" count="3">neural</word>
+	<word weight="0.014218009478672985" count="3">retinal</word>
+	<word weight="0.014218009478672985" count="3">NPHP</word>
+	<word weight="0.014218009478672985" count="3">centriolar</word>
+	<word weight="0.014218009478672985" count="3">disease</word>
+	<word weight="0.009478672985781991" count="2">lack</word>
+	<word weight="0.009478672985781991" count="2">defect</word>
+	<word weight="0.009478672985781991" count="2">apical</word>
+	<word weight="0.009478672985781991" count="2">interactors</word>
+	<word weight="0.009478672985781991" count="2">ciliary</word>
+	<word weight="0.009478672985781991" count="2">tube</word>
+	<word weight="0.009478672985781991" count="2">cystic</word>
+	<word weight="0.009478672985781991" count="2">MKS</word>
+	<word weight="0.009478672985781991" count="2">centrosomes</word>
+	<word weight="0.009478672985781991" count="2">substructures</word>
+	<word weight="0.009478672985781991" count="2">accumulation</word>
+	<word weight="0.009478672985781991" count="2">hypertrophy</word>
+	<word weight="0.009478672985781991" count="2">established</word>
+	<word weight="0.009478672985781991" count="2">abnormalities</word>
+	<word weight="0.009478672985781991" count="2">deregulated</word>
+	<word weight="0.009478672985781991" count="2">assay</word>
+	<word weight="0.009478672985781991" count="2">uncover</word>
+	<word weight="0.009478672985781991" count="2">reverse</word>
+	<word weight="0.009478672985781991" count="2">assembly</word>
+	<phrase weight="0.041666666666666664" count="2">Delta vif</phrase>
+	<phrase weight="0.020833333333333332" count="1">endogenously overexpressing</phrase>
+	<phrase weight="0.020833333333333332" count="1">supporting direct</phrase>
+	<phrase weight="0.020833333333333332" count="1">established protein-interaction</phrase>
+	<phrase weight="0.020833333333333332" count="1">centriole-like structures present Centrosome hypertrophy reversed depleting LGALS</phrase>
+	<phrase weight="0.020833333333333332" count="1">quantities vif-deficient</phrase>
+	<phrase weight="0.020833333333333332" count="1">consistent defect</phrase>
+	<phrase weight="0.020833333333333332" count="1">functionally relevant centrosome abnormalities</phrase>
+	<phrase weight="0.020833333333333332" count="1">mouse knockout shows neural tube Hedgehog</phrase>
+	<phrase weight="0.020833333333333332" count="1">speculate defects</phrase>
+	<phrase weight="0.020833333333333332" count="1">genetics uncover</phrase>
+	<phrase weight="0.020833333333333332" count="1">behave cell-free conditions Consistent</phrase>
+	<phrase weight="0.020833333333333332" count="1">centrosomal cell-cycle</phrase>
+	<phrase weight="0.020833333333333332" count="1">LGALS exhibits hypertrophic centrosomes seminoma tissues</phrase>
+	<phrase weight="0.020833333333333332" count="1">NPHP Joubert</phrase>
+	<phrase weight="0.020833333333333332" count="1">connected modules NPHP functioning apical</phrase>
+	<phrase weight="0.020833333333333332" count="1">expected lack</phrase>
+	<phrase weight="0.020833333333333332" count="1">promote reverse transcription vitro assay</phrase>
+	<phrase weight="0.020833333333333332" count="1">triggering centrosome hypertrophy overexpressed causing accumulation centriolar substructures downregulated</phrase>
+	<phrase weight="0.020833333333333332" count="1">retinal degeneration cerebellar/neural tube malformation defects kidney retinal neural disease</phrase>
+	<phrase weight="0.020833333333333332" count="1">Based inability</phrase>
+	<phrase weight="0.020833333333333332" count="1">selecting interacting</phrase>
+	<phrase weight="0.020833333333333332" count="1">renal cultures link renal cystic disease apical</phrase>
+	<phrase weight="0.020833333333333332" count="1">morphology number frequently deregulated</phrase>
+	<phrase weight="0.020833333333333332" count="1">intravirion reverse transcription</phrase>
+	<phrase weight="0.020833333333333332" count="1">defects ciliary Hedgehog pathway defects</phrase>
+	<phrase weight="0.020833333333333332" count="1">established protocol producing</phrase>
+	<phrase weight="0.020833333333333332" count="1">polarity pathways remains</phrase>
+	<phrase weight="0.020833333333333332" count="1">involve ciliary Hedgehog</phrase>
+	<phrase weight="0.020833333333333332" count="1">line SK-BR</phrase>
+  </topic>
+  <topic id="18" alpha="0.005795536372448567" totalTokens="170" titles="PEPCK, ZPI, showed, acetylation, factor, analyses, kinetic, FXa, stable, reaction">
+	<word weight="0.047058823529411764" count="8">PEPCK</word>
+	<word weight="0.041176470588235294" count="7">ZPI</word>
+	<word weight="0.023529411764705882" count="4">showed</word>
+	<word weight="0.023529411764705882" count="4">acetylation</word>
+	<word weight="0.023529411764705882" count="4">factor</word>
+	<word weight="0.023529411764705882" count="4">analyses</word>
+	<word weight="0.01764705882352941" count="3">kinetic</word>
+	<word weight="0.01764705882352941" count="3">FXa</word>
+	<word weight="0.01764705882352941" count="3">stable</word>
+	<word weight="0.01764705882352941" count="3">reaction</word>
+	<word weight="0.011764705882352941" count="2">dissociated</word>
+	<word weight="0.011764705882352941" count="2">PAGE</word>
+	<word weight="0.011764705882352941" count="2">ZPI-FXa</word>
+	<word weight="0.011764705882352941" count="2">Michaelis</word>
+	<word weight="0.011764705882352941" count="2">serpins</word>
+	<word weight="0.011764705882352941" count="2">acyl-intermediate</word>
+	<word weight="0.011764705882352941" count="2">procoagulant</word>
+	<word weight="0.011764705882352941" count="2">serpin</word>
+	<word weight="0.011764705882352941" count="2">diabetes</word>
+	<word weight="0.011764705882352941" count="2">targets</word>
+	<word weight="0.011764705882352941" count="2">glucose</word>
+	<word weight="0.011764705882352941" count="2">rate-limiting</word>
+	<word weight="0.011764705882352941" count="2">assembly</word>
+	<word weight="0.011764705882352941" count="2">mechanism</word>
+	<word weight="0.011764705882352941" count="2">response</word>
+	<word weight="0.011764705882352941" count="2">metabolic</word>
+	<word weight="0.011764705882352941" count="2">functions</word>
+	<word weight="0.011764705882352941" count="2">enzyme</word>
+	<word weight="0.0058823529411764705" count="1">trapped</word>
+	<word weight="0.0058823529411764705" count="1">kinetically</word>
+	<phrase weight="0.03571428571428571" count="1">acetylation PEPCK</phrase>
+	<phrase weight="0.03571428571428571" count="1">ZPI-PZ-lipid factor Xa-PZ-lipid intermediates rate-limiting Reaction stoichiometry analyses native PAGE showed factor molecule inhibited ZPI serpin molecules cleaved Native PAGE immunoblotting showed dissociated ZPI ZPI</phrase>
+	<phrase weight="0.03571428571428571" count="1">response metabolic</phrase>
+	<phrase weight="0.03571428571428571" count="1">constant showed bell-shaped dependence indicative participation factor active-site</phrase>
+	<phrase weight="0.03571428571428571" count="1">Conversely SIRT deacetylates stabilizes PEPCK</phrase>
+	<phrase weight="0.03571428571428571" count="1">gluconeogenic rate-limiting enzyme PEPCK modulating</phrase>
+	<phrase weight="0.03571428571428571" count="1">transiently stable dissociated</phrase>
+	<phrase weight="0.03571428571428571" count="1">kinetically trapped covalent acyl-intermediate</phrase>
+	<phrase weight="0.03571428571428571" count="1">FXa manner uniquely dependent</phrase>
+	<phrase weight="0.03571428571428571" count="1">type diabetes</phrase>
+	<phrase weight="0.03571428571428571" count="1">K(M conversion stable ZPI-FXa</phrase>
+	<phrase weight="0.03571428571428571" count="1">acyl-intermediate trapping</phrase>
+	<phrase weight="0.03571428571428571" count="1">response glucose High glucose destabilizes PEPCK</phrase>
+	<phrase weight="0.03571428571428571" count="1">procoagulant membrane-bound factor branched</phrase>
+	<phrase weight="0.03571428571428571" count="1">reversible reaction catalyzed pyruvate kinase irreversible reverse reaction requires phosphoenolpyruvate carboxykinase PEPCK commit gluconeogenesis</phrase>
+	<phrase weight="0.03571428571428571" count="1">member serpin superfamily functions cofactor-dependent</phrase>
+	<phrase weight="0.03571428571428571" count="1">FXa kinetic analyses</phrase>
+	<phrase weight="0.03571428571428571" count="1">mechanism regulating</phrase>
+	<phrase weight="0.03571428571428571" count="1">ZPI functions serpins regulate</phrase>
+	<phrase weight="0.03571428571428571" count="1">acetylation regulates</phrase>
+	<phrase weight="0.03571428571428571" count="1">assembly Michaelis</phrase>
+	<phrase weight="0.03571428571428571" count="1">acted catalytically accelerate membrane-dependent ZPI-factor</phrase>
+	<phrase weight="0.03571428571428571" count="1">acetyltransferase acetylation stimulates</phrase>
+	<phrase weight="0.03571428571428571" count="1">serpins significant variations mechanism unique ZPI Rapid kinetic analyses showed reaction proceeded initial assembly membrane-associated PZ-ZPI-FXa Michaelis</phrase>
+	<phrase weight="0.03571428571428571" count="1">Z-dependent protease inhibitor ZPI</phrase>
+	<phrase weight="0.03571428571428571" count="1">acetylation targets metabolic enzyme</phrase>
+	<phrase weight="0.03571428571428571" count="1">k(lim Cofactor premixing experiments independent kinetic analyses ZPI-PZ</phrase>
+	<phrase weight="0.03571428571428571" count="1">denatured low</phrase>
+  </topic>
+  <topic id="19" alpha="0.010511880816509627" totalTokens="144" titles="Ub-related, end, prior, mRNAs, label, kidney, method, Ub-proteasome, MDA-MB, translation">
+	<word weight="0.027777777777777776" count="4">Ub-related</word>
+	<word weight="0.027777777777777776" count="4">end</word>
+	<word weight="0.020833333333333332" count="3">prior</word>
+	<word weight="0.020833333333333332" count="3">mRNAs</word>
+	<word weight="0.020833333333333332" count="3">label</word>
+	<word weight="0.020833333333333332" count="3">kidney</word>
+	<word weight="0.020833333333333332" count="3">method</word>
+	<word weight="0.020833333333333332" count="3">mRNA</word>
+	<word weight="0.013888888888888888" count="2">Ub-proteasome</word>
+	<word weight="0.013888888888888888" count="2">MDA-MB</word>
+	<word weight="0.013888888888888888" count="2">related</word>
+	<word weight="0.013888888888888888" count="2">translation</word>
+	<word weight="0.013888888888888888" count="2">TAP</word>
+	<word weight="0.013888888888888888" count="2">removing</word>
+	<word weight="0.013888888888888888" count="2">r-oligo</word>
+	<word weight="0.013888888888888888" count="2">cap</word>
+	<word weight="0.013888888888888888" count="2">reaction</word>
+	<word weight="0.013888888888888888" count="2">analyze</word>
+	<word weight="0.013888888888888888" count="2">expressed</word>
+	<word weight="0.013888888888888888" count="2">methodology</word>
+	<word weight="0.013888888888888888" count="2">techniques</word>
+	<word weight="0.013888888888888888" count="2">podocyte</word>
+	<word weight="0.013888888888888888" count="2">epithelial</word>
+	<word weight="0.013888888888888888" count="2">membrane</word>
+	<word weight="0.013888888888888888" count="2">network</word>
+	<word weight="0.013888888888888888" count="2">treatment</word>
+	<word weight="0.013888888888888888" count="2">eukaryotic</word>
+	<word weight="0.013888888888888888" count="2">biological</word>
+	<word weight="0.006944444444444444" count="1">attribute</word>
+	<word weight="0.006944444444444444" count="1">ubiquitination-mediated</word>
+	<phrase weight="0.09090909090909091" count="1">exosomes membrane</phrase>
+	<phrase weight="0.09090909090909091" count="1">liquid chromatography-tandem</phrase>
+	<phrase weight="0.09090909090909091" count="1">analyze Ub-related</phrase>
+	<phrase weight="0.09090909090909091" count="1">MDA-MB breast</phrase>
+	<phrase weight="0.09090909090909091" count="1">devised method replace cap structure mRNA oligoribonucleotide r-oligo label end eukaryotic mRNAs method consists removing cap tobacco acid pyrophosphatase TAP ligating r-oligos decapped mRNAs RNA ligase reaction made cap-specific removing phosphates</phrase>
+	<phrase weight="0.09090909090909091" count="1">expressed kidney mRNA</phrase>
+	<phrase weight="0.09090909090909091" count="1">fusion plasma membrane extracellular environment renal epithelial</phrase>
+	<phrase weight="0.09090909090909091" count="1">methodology allowed</phrase>
+	<phrase weight="0.09090909090909091" count="1">podocyte-specific immunocoated beads</phrase>
+	<phrase weight="0.09090909090909091" count="1">coordinated activity glomerular tubular</phrase>
+	<phrase weight="0.09090909090909091" count="1">heat shock</phrase>
+  </topic>
+</topics>

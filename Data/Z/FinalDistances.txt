@@ -1,0 +1,27 @@
+[Word Base]: null
+[Variant names]:
+D(protein:null(0)) = -1.0
+D(proteasome:null(0)) = 26.0
+D(human:null(0)) = 15.0
+D(complex:null(0)) = -45.0
+D(subunit:null(0)) = 9.5
+D(vif:null(0)) = 9999.0
+D(hiv:null(0)) = 9999.0
+D(identify:null(0)) = 9999.0
+D(site:null(0)) = -48.0
+D(interaction:null(0)) = 9999.0
+D(APOBEC3G:null(0)) = 9999.0
+D(function:null(0)) = 23.0
+D(ubiquitin:null(0)) = 9999.0
+D(level:null(0)) = 1.0
+D(ubiquitylation:null(0)) = 9999.0
+D(activity:null(0)) = -11.0
+D(study:null(0)) = 30.0
+D(20s:null(0)) = 9999.0
+D(degradation:null(0)) = 9999.0
+D(cellular:null(0)) = 9999.0
+D(virion:null(0)) = 9999.0
+D(virus:null(0)) = 9999.0
+D(proteomic:null(0)) = 9999.0
+
+Standard Deviation: 17.285630033963983

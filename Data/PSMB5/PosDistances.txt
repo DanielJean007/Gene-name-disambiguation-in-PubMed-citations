@@ -1,0 +1,37 @@
+[Word Base]: PSMB5
+[Variant names]:
+D(proteasome,PSMB5) = 9.0625
+D(subunit,PSMB5) = 33.0
+D(bortezomib,PSMB5) = 5.15625
+D(PSMB5,PSMB5) = 9999.0
+D(expression,PSMB5) = 54.21875
+D(resistance,PSMB5) = 12.1875
+D(protein,PSMB5) = 4.75
+D(activity,PSMB5) = 11.8984375
+D(line,PSMB5) = 30.0
+D(proteasome:subunit,PSMB5) = 9999.0
+D(jurkatb,PSMB5) = 9999.0
+D(bortezomib:resistance,PSMB5) = 9999.0
+D(level,PSMB5) = 14.0
+D(group,PSMB5) = 9999.0
+D(beta,PSMB5) = 52.0
+D(drug,PSMB5) = 68.0
+D(LMP7,PSMB5) = 9999.0
+D(mb1,PSMB5) = 9999.0
+D(beta5,PSMB5) = 33.0
+D(resistant,PSMB5) = 12.125
+D(parental,PSMB5) = 10.25
+D(STAT3,PSMB5) = 2.0
+D(increase,PSMB5) = 52.25
+D(encode,PSMB5) = 9999.0
+D(patient,PSMB5) = 19.0
+D(jurkat,PSMB5) = 9999.0
+D(study,PSMB5) = 9999.0
+D(mutation,PSMB5) = 27.5
+D(mechanism,PSMB5) = 5.5
+D(decrease,PSMB5) = 92.5
+SD: 0.0
+Mean: 0.0
+Var: 0.0
+Median: 0.0
+

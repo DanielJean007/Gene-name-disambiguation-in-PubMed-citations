@@ -1,0 +1,31 @@
+[Word Base]: FUT1
+[Variant names]:
+D(FUT1 , FUT1(0)) = 9999.0
+D(h , FUT1(0)) = 51.75
+D(expression , FUT1(0)) = 5.88818359375
+D(allele , FUT1(0)) = 9.51953125
+D(fucosyltransferase , FUT1(0)) = 40.75
+D(bombay , FUT1(0)) = 9999.0
+D(mutation , FUT1(0)) = 30.302734375
+D(individual , FUT1(0)) = 98.125
+D(human , FUT1(0)) = 27.40625
+D(FUT2 , FUT1(0)) = 1.8468017578125
+D(antigen , FUT1(0)) = 69.25
+D(sequence , FUT1(0)) = 25.546875
+D(blood , FUT1(0)) = 51.921875
+D(para , FUT1(0)) = 13.8359375
+D(para:bombay , FUT1(0)) = 9999.0
+D(protein , FUT1(0)) = 6.25
+D(alpha , FUT1(0)) = 14.3125
+D(identify , FUT1(0)) = 26.75
+D(lewis , FUT1(0)) = 9999.0
+D(analysis , FUT1(0)) = 34.4375
+D(type , FUT1(0)) = 24.84375
+D(1,2 , FUT1(0)) = 9999.0
+D(phenotype , FUT1(0)) = 22.21875
+D(associate , FUT1(0)) = 9999.0
+SD: 0.0
+Mean: 0.0
+Var: 0.0
+Median: 0.0
+

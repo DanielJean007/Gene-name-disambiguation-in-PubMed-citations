@@ -1,0 +1,19 @@
+x[Word Base]: null
+[Variant names]:
+D(FUT1:null(0)) = -9.21484375
+D(h:null(0)) = 25.0
+D(expression:null(0)) = -4.625
+D(allele:null(0)) = 23.765625
+D(fucosyltransferase:null(0)) = 15.125
+D(human:null(0)) = -6.875
+D(FUT2:null(0)) = -15.625
+D(antigen:null(0)) = 2.25
+D(blood:null(0)) = 4.703125
+D(para:null(0)) = 7.84375
+D(protein:null(0)) = -20.0
+D(alpha:null(0)) = 21.14453125
+D(analysis:null(0)) = -5.75
+D(type:null(0)) = -24.75
+D(phenotype:null(0)) = 21.953125
+
+Standard Deviation: 27.0860418657497

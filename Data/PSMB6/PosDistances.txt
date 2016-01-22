@@ -1,0 +1,28 @@
+[Word Base]: PSMB6
+[Variant names]:
+D(protein,PSMB6) = 9999.0
+D(proteasome,PSMB6) = 9999.0
+D(human,PSMB6) = 9999.0
+D(subunit,PSMB6) = 9999.0
+D(complex,PSMB6) = 9999.0
+D(hiv,PSMB6) = 9999.0
+D(vif,PSMB6) = 9999.0
+D(identify,PSMB6) = 9999.0
+D(site,PSMB6) = 9999.0
+D(APOBEC3G,PSMB6) = 9999.0
+D(interaction,PSMB6) = 9999.0
+D(function,PSMB6) = 9999.0
+D(ubiquitin,PSMB6) = 9999.0
+D(virus,PSMB6) = 9999.0
+D(analysis,PSMB6) = 9999.0
+D(degradation,PSMB6) = 9999.0
+D(process,PSMB6) = 9999.0
+D(virion,PSMB6) = 9999.0
+D(ubiquitylation,PSMB6) = 9999.0
+D(20s,PSMB6) = 9999.0
+D(dna,PSMB6) = 9999.0
+SD: 0.0
+Mean: 0.0
+Var: 0.0
+Median: 0.0
+

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+<lst name="responseHeader">
+  <int name="status">0</int>
+  <int name="QTime">0</int>
+  <lst name="params">
+    <str name="q">24393841
+22781773
+22523338
+21978467
+21920470
+20555361
+19426847
+19243813
+18565852
+18562081
+18519783
+18502982
+17262013
+10692467
+8753855
+7864893
+24627483
+10816564
+8066462
+7820546</str>
+    <str name="indent">true</str>
+    <str name="fl">id, medline_article_title, medline_abstract_text</str>
+    <str name="rows">105</str>
+    <str name="wt">xml</str>
+  </lst>
+</lst>
+<result name="response" numFound="20" start="0">
+  <doc>
+    <str name="medline_article_title">Human proteasome subunits from 2-dimensional gels identified by partial sequencing.</str>
+    <str name="id">7864893</str></doc>
+  <doc>
+    <str name="medline_article_title">Proteasome subunit β5t expression in cervical ectopic thymoma.</str>
+    <str name="id">22523338</str></doc>
+  <doc>
+    <str name="medline_article_title">Upregulated expression of the PSMB5 gene may contribute to drug resistance in patient with multiple myeloma when treated with bortezomib-based regimen.</str>
+    <str name="id">21920470</str></doc>
+  <doc>
+    <arr name="medline_abstract_text">
+      <str>The proteasome inhibitor bortezomib is a novel anticancer drug that has shown promise in the treatment of refractory multiple myeloma. However, its clinical efficacy has been hampered by the emergence of drug-resistance phenomena, the molecular basis of which remains elusive. Toward this end, we here developed high levels (45- to 129-fold) of acquired resistance to bortezomib in human myelomonocytic THP1 cells by exposure to stepwise increasing (2.5-200 nM) concentrations of bortezomib. Study of the molecular mechanism of bortezomib resistance in these cells revealed (1) an Ala49Thr mutation residing in a highly conserved bortezomib-binding pocket in the proteasome beta5-subunit (PSMB5) protein, (2) a dramatic overexpression (up to 60-fold) of PSMB5 protein but not of other proteasome subunits including PSMB6, PSMB7, and PSMA7, (3) high levels of cross-resistance to beta5 subunit-targeted cytotoxic peptides 4A6, MG132, MG262, and ALLN, but not to a broad spectrum of chemotherapeutic drugs, (4) no marked changes in chymotrypsin-like proteasome activity, and (5) restoration of bortezomib sensitivity in bortezomib-resistant cells by siRNA-mediated silencing of PSMB5 gene expression. Collectively, these findings establish a novel mechanism of bortezomib resistance associated with the selective overexpression of a mutant PSMB5 protein.</str>
+    </arr>
+    <str name="medline_article_title">Molecular basis of bortezomib resistance: proteasome subunit beta5 (PSMB5) gene mutation and overexpression of PSMB5 protein.</str>
+    <str name="id">18565852</str></doc>
+  <doc>
+    <arr name="medline_abstract_text">
+      <str>To evaluate the expression of proteasome β5 subunit in human atherosclerotic plaque.</str>
+      <str>The specimens of carotid endarterectomy were collected from 16 carotid stenosis patients. For the case group, they were divided into 2 groups: plaque (group A) and areas adjacent to plaque (group B). And carotid endarterium was obtained from 6 patients undergoing aortic replacement surgery. Relatively normal arterial intima (subclavian artery &amp; innominate artery) was selected as the control group (group C). Content of proteasome β5 subunit was evaluated by hematoxylin &amp; eosin (HE) staining, immunohistochemistry and Western blot.</str>
+      <str>(1) In patients with diabetes, hyperlipidemia and probable smoking, proteasome β5 subunit was enhanced in all groups; (2) Proteasome β5 subunit was demonstrated in both cytoplasm and nucleus of vascular smooth muscle cells, but mainly confined to cytoplasm; (3)The positive expression rate of β5 was 9/16 in group A, 11/16 in group B and 6/6 in group C. There was significant divergence in the expression of β5 in different sample sub-groups: group A (atherosclerotic plaque) &lt; group B (areas adjacent to plaque) &lt; group C (control group).</str>
+      <str>The expression of β5 decrease markedly in human atherosclerotic plaques.</str>
+    </arr>
+    <str name="medline_article_title">[Expression of proteasome β5 subunit in human atherosclerotic plaque].</str>
+    <str name="id">22781773</str></doc>
+  <doc>
+    <arr name="medline_abstract_text">
+      <str>We sequenced the human MB1 gene from a cosmid clone mapping to chromosome 14q11.2-12. The gene spans about 6 kilobases and contains three exons and two introns. There was no evidence of an alternative leader exon, which is a characteristic of the major histocompatibility complex (MHC)-encoded LMP7 gene, the closest relative of MB1, with which it shares 67% amino acid identity. Conceptual translation of the 5' end of the gene calls for a cleaved leader sequence of 59 amino acids, consistent with western blot data. None of the MB1 gene's three exons were coincident with any of the six exons in LMP7. In contrast, in the delta-encoding gene and its counterpart, the MHC-encoded LMP2 gene (59% amino acid identity), all six exons are arranged at equivalent positions in respect to the coding frame. The unique structure of MB1 implies a separate origin or different selection pressures acting at this particular locus. DNA repeat analysis provides information on the minimum time of separation of the MB1/LMP7 pair of genes.</str>
+    </arr>
+    <str name="medline_article_title">Divergent intron arrangement in the MB1/LMP7 proteasome gene pair.</str>
+    <str name="id">8753855</str></doc>
+  <doc>
+    <arr name="medline_abstract_text">
+      <str>Assembly of mammalian 20 S proteasomes from individual subunits is beginning to be investigated. Proteasomes are made of four heptameric rings in the configuration alpha7beta7beta7alpha7. By using anti-proteasome and anti-subunit-specific antibodies, we characterized the processing and assembly of the beta subunit C5. The C5 precursor (25 kDa) remains as a free non-assembled polypeptide in the cell. The conversion of the C5 precursor to mature C5 (23 kDa) occurs concomitantly with its incorporation into 15 S proteasome intermediate and 20 S mature proteasome complexes. This processing is dependent on proteasome activity and takes place in the cytosol. These results are not fully compatible with the hypothesis that postulates that assembly of proteasomes takes place via a "half-proteasome" intermediate that contains one full alpha-ring and one full beta-ring of unprocessed beta subunit precursors.</str>
+    </arr>
+    <str name="medline_article_title">Proteolytic processing and assembly of the C5 subunit into the proteasome complex.</str>
+    <str name="id">10692467</str></doc>
+  <doc>
+    <arr name="medline_abstract_text">
+      <str>To determine whether the overexpression of the proteasome catalytic beta5 subunit (PSMB5) can induce the expression of the catalytic subunits beta1 and beta2, enhance proteasome activity, and exert a cytoprotective effect in lens epithelial cells.</str>
+      <str>Cells from the human lens epithelial cell line SRA01/04 (LECs) were stably transfected either with a plasmid expressing the proteasome catalytic subunit beta5 or with an empty plasmid. beta-5-expressing LECs and controls were analyzed for the expression of beta1, beta2, beta5, and alpha6 proteasome subunits; chymotrypsin-like (CT-L) and peptidylglutamyl-peptide hydrolase (PGPH) catalytic activities; as well as for the accumulation of carbonylated proteins, rates of cell viability, and apoptosis after oxidative stress.</str>
+      <str>Stable expression of the beta5 proteasome subunit resulted in increased expression of the catalytic subunits beta1 and beta2, increased CT-L and PGPH proteasome activities, and increased resistance to accumulation of carbonylated proteins and cell death after oxidative stress.</str>
+      <str>The proteasome activity can be genetically "upregulated" in lens cells by overexpression of the beta5 catalytic subunit. The resulting increase in proteasome activity leads to a decrease in the accumulation of oxidized proteins and enhanced cell survival following oxidative stress.</str>
+    </arr>
+    <str name="medline_article_title">Cytoprotective effects of proteasome beta5 subunit overexpression in lens epithelial cells.</str>
+    <str name="id">17262013</str></doc>
+  <doc>
+    <arr name="medline_abstract_text">
+      <str>Proteasomes are the proteolytic complex responsible for major histocompatibility complex (MHC) class I-restricted antigen presentation. Interferon gamma treatment increases expression MHC-encoded LMP2 and LMP7 subunits of the proteasome and decreases expression of two proteasome subunits, named X and Y, which alters the proteolytic specificity of proteasomes. Molecular cloning of complementary DNAs encoding X and Y showed that their proteins are proteasomal subunits with high amino acid similarity to LMP7 and LMP2, respectively. Thus, interferon gamma may induce subunit replacements of X and Y by LMP7 and LMP2, respectively, producing proteasomes perhaps more appropriate for the immunological processing of endogenous antigens.</str>
+    </arr>
+    <str name="medline_article_title">cDNA cloning and interferon gamma down-regulation of proteasomal subunits X and Y.</str>
+    <str name="id">8066462</str></doc>
+  <doc>
+    <arr name="medline_abstract_text">
+      <str>Bortezomib is an effective agent for treating multiple myeloma (MM). To investigate the underlying mechanisms associated with acquired resistance to this agent, we established two bortezomib-resistant MM cell lines, KMS-11/BTZ and OPM-2/BTZ, the 50% inhibitory concentration values of which were respectively 24.7- and 16.6-fold higher than their parental cell lines. No activation of caspase and BH3-only proteins such as Noxa was noted in bortezomib-resistant cells after exposure to the drug. The accumulation of polyubiquitinated proteins was reduced in bortezomib-resistant cells compared with the parental cells, associated with avoidance of catastrophic ER stress as assessed by downregulation of CHOP expression. These resistant MM cells have a unique point mutation, G322A, in the gene encoding the proteasome beta5 subunit (PSMB5), likely resulting in conformational changes to the bortezomib-binding pocket of this subunit. KMS-11 parental cells transfected to express mutated PSMB5 also showed reduced bortezomib-induced apoptosis compared with those expressing wild-type PSMB5 or the parental cells. Expression of mutated PSMB5 was associated with the prevention of the accumulation of unfolded proteins. Thus, a fraction of MM cells may acquire bortezomib resistance by suppressing apoptotic signals through the inhibition of unfolded protein accumulation and subsequent excessive ER stress by a mutation of the PSMB5 gene.</str>
+    </arr>
+    <str name="medline_article_title">Bortezomib-resistant myeloma cell lines: a role for mutated PSMB5 in preventing the accumulation of unfolded proteins and fatal ER stress.</str>
+    <str name="id">20555361</str></doc>
+  <doc>
+    <arr name="medline_abstract_text">
+      <str>To investigate the expression and to determine the prognostic impact of components of the antigen processing and presentation pathway (APPP) in ovarian cancer.</str>
+      <str>Expression of MB1, LMP7, TAP1, TAP2, ERp57, ERAP1, beta(2)-microglobulin and the alpha-chains, HLA-B/C and HLA-A, of the MHC class I molecules was evaluated on tissue microarrays containing primary tumor samples from 232 FIGO stages I-IV ovarian cancer patients. Expression levels were correlated to clinicopathological data and disease specific (DSS) survival.</str>
+      <str>Patients with expression of all components of the MHC class I complex, i.e. HLA-A(+)-beta(2)-m(+) and HLA-B/C(+)-beta(2)-m(+) patients, more often had expression of LMP7, a component of the immunoproteasome than patients with other phenotypes (p&lt;0.001). These patients were also more prone to loss of MB1, part of the constitutive multicatalytic proteasome (p&lt;0.05). Nuclear MB1 expression was an independent predictor of worse DSS (HR 1.94, 95% CI 1.16-3.26, p=0.012). The HLA-B/C(+)-beta(2)-m(+) phenotype was an independent predictor of a better prognosis (HR 0.63, 95% CI 0.40-0.99, p=0.047). Median DSS was longer for patients with normal nuclear expression of LMP7 (57.4 vs. 31.0 months, p=0.029).</str>
+      <str>The prognostic influence of the proteasomal subunit MB1 and the MHC class I complex in ovarian cancer provides a rationale for targeting these specific APPP components in ovarian cancer.</str>
+    </arr>
+    <str name="medline_article_title">Down-regulation of proteasomal subunit MB1 is an independent predictor of improved survival in ovarian cancer.</str>
+    <str name="id">19243813</str></doc>
+  <doc>
+    <arr name="medline_abstract_text">
+      <str>Bortezomib is a proteasome inhibitor important to the therapy of multiple myeloma (MM), though a number of patients show resistance to this drug. To study the cellular basis of this resistance we have generated a MM cell line displaying enhanced (5-6-fold) resistance to bortezomib by serial cultivation of RPMI 8226 cells with increasing concentrations of this drug. Bortezomib-resistant cells (8226/7B) became bigger in size than parental cells and nearly doubled the amount of DNA per cell, evolving from hypotriploidy to near-tetraploidy. 8226/7B displayed lowered Noxa accumulation and reduced caspase-3 activation in response to bortezomib. Resistant 8226/7B cells overexpressed the PSMβ5 proteasome subunit, the molecular target of bortezomib, both at the mRNA and protein level. No mutations were detected in the PSMβ5 gene. Bortezomib-resistant cells were roughly as sensitive as parental cells to other chemotherapeutic drugs, including doxorubicin, melphalan, vincristine, BMS-214662 and BMS-345541. 8226/7B cells showed partial and high cross-resistance to the proteasome inhibitors epoxomicin and MG-132, respectively. Co-treatment with the histone deacetylase inhibitor trichostatin A (TSA) potentiated bortezomib-induced apoptosis in parental RPMI 8226 cells but did not revert bortezomib resistance in 8226/7B cells. Therefore, treatment of bortezomib-refractory myeloma with drugs targeting molecular structures other than proteasome seems to be the more suitable therapeutic strategy to overcome bortezomib resistance.</str>
+    </arr>
+    <str name="medline_article_title">Bortezomib resistance in a myeloma cell line is associated to PSMβ5 overexpression and polyploidy.</str>
+    <str name="id">21978467</str></doc>
+  <doc>
+    <arr name="medline_abstract_text">
+      <str>Multipotent human bone marrow stromal cells (hBMSCs) potentially serve as a source for cell-based therapy in regenerative medicine. However, in vitro expansion was inescapably accompanied with cell senescence, characterized by inhibited proliferation and compromised pluripotency. We have previously demonstrated that this aging process is closely associated with reduced 20S proteasomal activity, with down-regulation of rate-limiting catalytic β-subunits particularly evident. In the present study, we confirmed that proteasomal activity directly contributes to senescence of hBMSCs, which could be reversed by overexpression of the β5-subunit (PSMB5). Knocking down PSMB5 led to decreased proteasomal activity concurrent with reduced cell proliferation in early-stage hBMSCs, which is similar to the senescent phenotype observed in late-stage cells. In contrast, overexpressing PSMB5 in late-stage cells efficiently restored the normal activity of 20S proteasomes and promoted cell growth, possibly via upregulating the Cyclin D1/CDK4 complex. Additionally, PSMB5 could enhance cell resistance to oxidative stress, as evidenced by the increased cell survival upon exposing senescent hBMSCs to hydrogen peroxide. Furthermore, PSMB5 overexpression retained the pluripotency of late-stage hBMSCs by facilitating their neural differentiation both in vitro and in vivo. Collectively, our work reveals a critical role of PSMB5 in 20S proteasome-mediated protection against replicative senescence, pointing to a possible strategy for maintaining the integrity of culture-expanded hBMSCs by manipulating the expression of PSMB5. </str>
+    </arr>
+    <str name="medline_article_title">Ameliorating replicative senescence of human bone marrow stromal cells by PSMB5 overexpression.</str>
+    <str name="id">24393841</str></doc>
+  <doc>
+    <arr name="medline_abstract_text">
+      <str>To study the mechanism of acquired resistance to bortezomib, a new antitumor drug that is the first therapeutic proteasome inhibitor, we established a series of bortezomib-resistant T lymphoblastic lymphoma/leukemia cell lines, designated the JurkatBs, from the parental Jurkat line via repeated drug selection. There were no significant differences in the growth curves or colony formation between the JurkatB cells and parental Jurkat cells. The effects of bortezomib on cytotoxicity, cell cycle arrest, and induction of apoptosis were decreased in JurkatB cells compared with parental Jurkat cells. A mutation in the proteasome beta5 subunit (PSMB5) gene (G322A), which encodes an amino acid change from Ala to Thr at polypeptide position 108, was detected by sequencing full-length cDNA clones and direct polymerase chain reaction products of the PSMB5 gene. Bortezomib caused less inhibition of chymotrypsin-like activity in resistant cells. When the G322A mutant PSMB5 was retrovirally introduced into parental Jurkat cells, it conferred bortezomib resistance to these cells, resulting in decreased cytotoxicity, apoptosis, and inhibition of chymotrypsin-like activity. The predicted structure of A108T-mutated PSMB5 shows a conformational change that suggests decreased affinity to bortezomib. In short, the G322A mutation of the PSMB5 gene is a novel mechanism for bortezomib resistance.</str>
+    </arr>
+    <str name="medline_article_title">Point mutation of the proteasome beta5 subunit gene is an important mechanism of bortezomib resistance in bortezomib-selected variants of Jurkat T cell lymphoblastic lymphoma/leukemia line.</str>
+    <str name="id">18502982</str></doc>
+  <doc>
+    <arr name="medline_abstract_text">
+      <str>The assembly of eukaryotic 20 S proteasomes involves the formation of half-proteasomes where precursor beta-type subunits gather in position on an alpha-subunit ring, followed by the association of two half-proteasomes and beta-subunit processing. In vertebrates three additional beta-subunits (beta1i/LMP2, beta2i/MECL1, and beta5i/LMP7) can be synthesized and substituted for constitutive homologues (beta1/delta, beta2/Z, and beta5/X) to yield immunoproteasomes, which are important for generating certain antigenic peptides. We have shown previously that when all six beta-subunits are present, cooperative assembly mechanisms limit the diversity of proteasome populations. Specifically, LMP7 is incorporated preferentially over X into preproteasomes containing LMP2 and MECL1. We show here that the LMP7 propeptide is responsible for this preferential incorporation, and it also enables LMP7 to incorporate into proteasomes containing delta and Z. In contrast, the X propeptide restricts incorporation to proteasomes with delta and Z. Furthermore, we demonstrate that the LMP7 propeptide can function in trans when expressed on LMP2, and that its NH(2)-terminal and mid-regions are particularly critical for function. In addition to identifying a novel propeptide function, our results raise the possibility that one consequence of LMP7 incorporation into both immunoproteasomes and delta/Z proteasomes may be to increase the diversity of antigenic peptides that can be generated.</str>
+    </arr>
+    <str name="medline_article_title">Novel propeptide function in 20 S proteasome assembly influences beta subunit composition.</str>
+    <str name="id">10816564</str></doc>
+  <doc>
+    <arr name="medline_abstract_text">
+      <str>To investigate the relationship between bortezomib resistance and mutations in the proteasome beta5 subunit (PSMB5) gene.</str>
+      <str>Various bortezomib-resistant lymphoblastic lymphoma/leukemia lines were established by repeated cycles of bortezomib selection. Mutations were detected by sequencing the complementary DNA of the PSMB5 gene. Mutated clones were selected by limited dilution and cultured without bortezomib. Messenger RNA expression levels of PSMB5 in these mutated clones were measured by quantitative reverse transcription polymerase chain reaction. The degree of resistance was determined by cytotoxicity at various bortezomib concentrations. The chymotrypsin-like activities were assayed by measuring the release of the fluorescent 7-amido-4-methylcoumarin from the substrate N-succinyl-Leu-Leu-Val-Tyr-7-amido-4-methylcoumarin.</str>
+      <str>In addition to the previously reported PSMB5 G322A mutant (Ala49Thr), a C323T mutant (Ala49Val), and G322A, C326T conjoined mutant (Ala49Thr and Ala50Val) were selected and clones containing these mutations (JurkatB-G322A, JurkatB-C323T, and JurkatB-G322A/C326T) were obtained. After being cultured without bortezomib for &gt;2 months, no significant difference in PSMB5 messenger RNA levels was detected between these JurkatB cells and parental Jurkat cells. JurkatB-G322A, JurkatB-C323T, and JurkatB-G322A/C326T clones displayed 22.0-fold, 39.4-fold, and 66.7-fold resistance, respectively, to bortezomib compared to Jurkat cells. There were no significant differences between the chymotrypsin-like activities of these mutants and Jurkat cells. The inhibitory effect of bortezomib on chymotrypsin-like activity was the weakest in JurkatB-G322A/C326T cells, and the strongest in JurkatB-G322A cells, with JurkatB-C323T cells falling in between.</str>
+      <str>Mutations of the PSMB5 gene resulting in substitutions of Ala49 and Ala50 of PSMB5 protein can confer varying bortezomib resistance.</str>
+    </arr>
+    <str name="medline_article_title">Different mutants of PSMB5 confer varying bortezomib resistance in T lymphoblastic lymphoma/leukemia cells derived from the Jurkat cell line.</str>
+    <str name="id">19426847</str></doc>
+  <doc>
+    <arr name="medline_abstract_text">
+      <str>To study the mechanism of bortezomib resistance in JurkatB lines derived from T-lymphoblastic lymphoma/leukemia Jurkat line.</str>
+      <str>Cytotoxicities of popular chemotherapeutic drugs to JurkatB cells were analyzed by trypan blue assay. Functional drug efflux in JurkatB cells was determined by flow cytometry utilizing daunorubicin and the expression of P-glycoprotein (P-gp) was detected by Western blot. mRNA expression levels of proteasome beta5 subunit (PSMB5) were measured by quantitation real-time reverse transcription polymerase chain reaction. In situ hybridization was performed to detect the amplification of PSMB5 gene. The chymotrypsin-like activities were assayed by measuring the release of the fluorescent 7-amido-4-methylcoumarin (AMC) from the substrate N-succinyl-Leu-Leu-Val-Tyr-AMC. Cytogenetic studies were performed using R-banded metaphases and fluorescence in situ hybridization (FISH) analysis. IkappaB-alpha levels were detected by Western blot.</str>
+      <str>No cross-resistance to daunorubicin, adriamycin, vindesine, and etoposide was found in JurkatB cells. No evidence of drug efflux was found in JurkatB cells and the expression of P-gp was negative. The PSMB5 mRNA was overexpressed in highly resistant JurkatB5 and JurkatB1 lines compared with parental Jurkat, corresponding well with the increase of chymotrypsin-like activity and a karyotype of i(14q). Amplification of PSMB5 gene was demonstrated by in situ hybridization and FISH. The decreased IkappaB-alpha level in JurkatB5 cells after bortezomib treatment indicating an upregulation of nuclear factor-kappaB (NF-kappaB) activity.</str>
+      <str>The mechanism of bortezomib resistance is different from that of multidrug resistance. Overexpression of PSMB5 is an important mechanism for bortezomib resistance in JurkatB lines. NF-kappaB may play a critical role in evading the apoptotic effects.</str>
+    </arr>
+    <str name="medline_article_title">Overexpression of the PSMB5 gene contributes to bortezomib resistance in T-lymphoblastic lymphoma/leukemia cells derived from Jurkat line.</str>
+    <str name="id">18562081</str></doc>
+  <doc>
+    <arr name="medline_abstract_text">
+      <str>The proteasome is a multisubunit cellular organelle that functions as a nonlysosomal threonine protease. Proteasomes play a critical role in the degradation of proteins, regulating a variety of cellular processes, and they are also the target for antineoplastic proteasome inhibitors. Genetic variation in proteasome subunits could influence both proteasome function and response to drug therapy.</str>
+      <str>We resequenced genes encoding the three active proteasome beta subunits using 240 DNA samples from four ethnic groups and the beta 5 subunit gene in 79 DNA samples from multiple myeloma patients who had been treated with the proteasome inhibitor bortezomib. Resequencing was followed by functional studies of polymorphisms identified in the coding region and 3'-flanking region (3'-FR) of PSMB5, the gene encoding the target for clinically useful proteasome inhibitors.</str>
+      <str>Resequencing of 240 DNA samples identified a series of novel ethnic-specific polymorphisms that are not represented in public databases. The PSMB5 3'-FR 1042 G allele significantly increased transcription during reporter gene studies, observations confirmed by genotype-phenotype correlations between single nucleotide polymorphisms (SNP) in PSMB5 and mRNA expression in the 240 lymphoblastoid cell lines from which the resequenced DNA was obtained. Studies with patient DNA samples identified additional novel PSMB5 polymorphisms, including a SNP and an insertion in the 3'-FR. Reporter-gene studies indicated that these two novel polymorphisms might decrease transcription.</str>
+      <str>These results show that nonsynonymous coding SNPs in the PSMB5 gene did not show significant effects on proteasome activity, but SNPs did influence transcription. Future studies might focus on regulatory region polymorphisms.</str>
+    </arr>
+    <str name="medline_article_title">Proteasome beta subunit pharmacogenomics: gene resequencing and functional genomics.</str>
+    <str name="id">18519783</str></doc>
+  <doc>
+    <arr name="medline_abstract_text">
+      <str>Intracellular proteins are processed into small peptides that bind HLA class I molecules of the major histocompatibility complex (MHC) in order to be presented to T lymphocytes. The proteasome, a multi-subunit protease, has recently been implicated in the generation of these peptides. Two genes encoding proteasome subunits, LMP2 and LMP7, are tightly linked to the TAP peptide transport loci in the class II region of the human MHC. Inclusion of the LMP subunits may alter proteasome activity, biasing it towards the production of peptides with carboxyl termini appropriate for binding HLA class I molecules. Nevertheless, mutant cells that lack the LMP genes are able to process and present antigens at the cell surface at similar levels to wild-type cells. These results raise questions about the role of the proteasome, and in particular of the LMP subunits, in antigen processing.</str>
+      <str>We have cloned the genes encoding a new proteasome subunit, MB1, which is closely related to LMP7, and that encoding a second subunit, Delta, which is closely related to LMP2. Expression of the MB1 and delta genes is reciprocal to that of the LMP genes: MB1 and delta are up-regulated in mutant cell lines lacking LMPs and down-regulated in the presence of gamma-interferon. The MB1 and delta genes are found to be located on chromosomes 14 and 17, respectively, raising interesting evolutionary questions about how the LMP genes independently became incorporated into the MHC.</str>
+      <str>We suggest that the subtle phenotype of LMP-deficient cell lines results from the compensatory expression in these lines of two other proteasome subunits, MB1 and Delta.</str>
+    </arr>
+    <str name="medline_article_title">Proteasome components with reciprocal expression to that of the MHC-encoded LMP proteins.</str>
+    <str name="id">7820546</str></doc>
+  <doc>
+    <arr name="medline_abstract_text">
+      <str>The ubiquitin-proteasome system facilitates the degradation of ubiquitin-tagged proteins and performs a regulatory role in cells. Elevated proteasome activity and subunit expression are found in several cancers. However, the inherent molecular mechanisms responsible for increased proteasome function in cancers remain unclear despite the well investigated and defined role of the mammalian proteasome. This study was initiated to elucidate the mechanisms involved in the regulation of β subunits of the mammalian proteasome. Suppression of STAT3 tyrosine phosphorylation coordinately decreased the mRNA and protein levels of the β subunits of the 20 S core complex in DU145 cells. Notably, PSMB5, a molecular target of bortezomib, was shown to be a target of STAT3. Knockdown of STAT3 decreased PSMB5 protein. Inhibition of phospho-STAT3 substantially reduced PSMB5 protein levels in cells expressing constitutively active-STAT3. Accumulation of activated STAT3 resulted in the induction of PSMB5 promoter and protein levels. In addition, a direct correlation was observed between the endogenous levels of PSMB5 and constitutively active STAT3. PSMB5 and STAT3 protein levels remained unaltered following the inhibition of proteasome activity. The EGF-induced concerted increase of β subunits was blocked by inhibition of the EGF receptor or STAT3 but not by the PI3K/AKT or MEK/ERK pathways. Decreased proteasome activities were due to reduced protein levels of catalytic subunits of the proteasome in STAT3-inhibited cells. Combined treatments with bortezomib and inhibitor of STAT3 abrogated proteasome activity and enhanced cellular apoptosis. Overall, we demonstrate that aberrant activation of STAT3 regulates the expression of β subunits, in particular PSMB5, and the catalytic activity of the proteasome. </str>
+    </arr>
+    <str name="medline_article_title">Regulation of PSMB5 protein and β subunits of mammalian proteasome by constitutively activated signal transducer and activator of transcription 3 (STAT3): potential role in bortezomib-mediated anticancer therapy.</str>
+    <str name="id">24627483</str></doc>
+</result>
+</response>

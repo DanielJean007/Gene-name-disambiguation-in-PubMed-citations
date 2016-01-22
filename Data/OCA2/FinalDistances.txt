@@ -1,0 +1,32 @@
+[Word Base]: null
+[Variant names]:
+D(OCA2,null) = 9999.0
+D(associate,null) = 9999.0
+D(oculocutaneous:albinism,null) = 9999.0
+D(oca,null) = 9999.0
+D(identify,null) = 9999.0
+D(population,null) = 9999.0
+D(analysis,null) = 9999.0
+D(patient,null) = 9999.0
+D(albinism,null) = 9999.0
+D(oculocutaneous,null) = 9999.0
+D(mutation,null) = 9999.0
+D(eye,null) = 9999.0
+D(SNP,null) = 9999.0
+D(association,null) = 9999.0
+D(hair,null) = 9999.0
+D(color,null) = 9999.0
+D(skin,null) = 9999.0
+D(study,null) = 9999.0
+D(variant,null) = 9999.0
+D(p,null) = 9999.0
+D(allele,null) = 9999.0
+D(pigmentation,null) = 9999.0
+D(genetic,null) = 9999.0
+D(variation,null) = 9999.0
+D(human,null) = 9999.0
+SD: 0.0
+Mean: 0.0
+Var: 0.0
+Median: 0.0
+

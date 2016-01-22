@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+<lst name="responseHeader">
+  <int name="status">0</int>
+  <int name="QTime">0</int>
+  <lst name="params">
+    <str name="q">
+8066462
+10816564</str>
+    <str name="indent">true</str>
+    <str name="fl">id, medline_abstract_text, medline_article_title</str>
+    <str name="rows">100</str>
+    <str name="wt">xml</str>
+  </lst>
+</lst>
+<result name="response" numFound="2" start="0">
+  <doc>
+    <arr name="medline_abstract_text">
+      <str>Proteasomes are the proteolytic complex responsible for major histocompatibility complex (MHC) class I-restricted antigen presentation. Interferon gamma treatment increases expression MHC-encoded LMP2 and LMP7 subunits of the proteasome and decreases expression of two proteasome subunits, named X and Y, which alters the proteolytic specificity of proteasomes. Molecular cloning of complementary DNAs encoding X and Y showed that their proteins are proteasomal subunits with high amino acid similarity to LMP7 and LMP2, respectively. Thus, interferon gamma may induce subunit replacements of X and Y by LMP7 and LMP2, respectively, producing proteasomes perhaps more appropriate for the immunological processing of endogenous antigens.</str>
+    </arr>
+    <str name="medline_article_title">cDNA cloning and interferon gamma down-regulation of proteasomal subunits X and Y.</str>
+    <str name="id">8066462</str></doc>
+  <doc>
+    <arr name="medline_abstract_text">
+      <str>The assembly of eukaryotic 20 S proteasomes involves the formation of half-proteasomes where precursor beta-type subunits gather in position on an alpha-subunit ring, followed by the association of two half-proteasomes and beta-subunit processing. In vertebrates three additional beta-subunits (beta1i/LMP2, beta2i/MECL1, and beta5i/LMP7) can be synthesized and substituted for constitutive homologues (beta1/delta, beta2/Z, and beta5/X) to yield immunoproteasomes, which are important for generating certain antigenic peptides. We have shown previously that when all six beta-subunits are present, cooperative assembly mechanisms limit the diversity of proteasome populations. Specifically, LMP7 is incorporated preferentially over X into preproteasomes containing LMP2 and MECL1. We show here that the LMP7 propeptide is responsible for this preferential incorporation, and it also enables LMP7 to incorporate into proteasomes containing delta and Z. In contrast, the X propeptide restricts incorporation to proteasomes with delta and Z. Furthermore, we demonstrate that the LMP7 propeptide can function in trans when expressed on LMP2, and that its NH(2)-terminal and mid-regions are particularly critical for function. In addition to identifying a novel propeptide function, our results raise the possibility that one consequence of LMP7 incorporation into both immunoproteasomes and delta/Z proteasomes may be to increase the diversity of antigenic peptides that can be generated.</str>
+    </arr>
+    <str name="medline_article_title">Novel propeptide function in 20 S proteasome assembly influences beta subunit composition.</str>
+    <str name="id">10816564</str></doc>
+</result>
+</response>

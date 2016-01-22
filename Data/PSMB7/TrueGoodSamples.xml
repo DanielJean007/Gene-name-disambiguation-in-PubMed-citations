@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+<lst name="responseHeader">
+  <int name="status">0</int>
+  <int name="QTime">0</int>
+  <lst name="params">
+    <str name="q">
+18462727
+7811265
+9311996
+18378283
+8666937
+18768472</str>
+    <str name="indent">true</str>
+    <str name="fl">id, medline_abstract_text, medline_article_title</str>
+    <str name="rows">100</str>
+    <str name="wt">xml</str>
+  </lst>
+</lst>
+<result name="response" numFound="6" start="0">
+  <doc>
+    <arr name="medline_abstract_text">
+      <str>Gene variant intron C G-42A of protein Z is significantly associated with the occurrence of fetal loss. A previously unreported sporadic missense mutation within exon 8 is described in a patient with very low protein Z levels.</str>
+    </arr>
+    <str name="medline_article_title">An unreported mutation within protein Z gene is associated with very low protein levels in women with fetal loss.</str>
+    <str name="id">18462727</str></doc>
+  <doc>
+    <arr name="medline_abstract_text">
+      <str>Human proteasomes consist of 14 major subunits which can be resolved by two-dimensional polyacrylamide gel electrophoresis. Tryptic peptides from the subunits were sequenced. This allowed identification of all proteins in two-dimensional electrophoresis gels with proteasome subunits whose sequences are known from cDNA. The results also precisely define the specificity of a panel of subunit-specific monoclonal antibodies. A new proteasome subunit (Z) was discovered. In contrast, the putative subunit MECL-1 could not be detected in human placenta proteasomes.</str>
+    </arr>
+    <str name="medline_article_title">Human proteasome subunits from 2-dimensional gels identified by partial sequencing.</str>
+    <str name="id">7811265</str></doc>
+  <doc>
+    <arr name="medline_abstract_text">
+      <str>The assembly of individual proteasome subunits into catalytically active mammalian 20S proteasomes is not well understood. Using subunit-specific antibodies, we characterized both precursor and mature proteasome complexes. Antibodies to PSMA4 (C9) immunoprecipitated complexes composed of alpha, precursor beta and processed beta subunits. However, antibodies to PSMA3 (C8) and PSMB9 (LMP2) immunoprecipitated complexes made up of alpha and precursor beta but no processed beta subunits. These complexes possess short half-lives, are enzymatically inactive and their molecular weight is approximately 300 kDa. Radioactivity chases from these complexes into mature, long-lived approximately 700 kDa proteasomes. Therefore, these structures represent precursor proteasomes and are probably made up of two rings: one containing alpha subunits and the other, precursor beta subunits. The assembly of precursor proteasomes occurs in at least two stages, with precursor beta subunits PSMB2 (C7-I), PSMB3 (C10-II), PSMB7 (Z), PSMB9 (LMP2) and PSMB10 (LMP10) being incorporated before others [PSMB1 (C5), PSMB6 (delta), and PSMB8 (LMP7)]. Proteasome maturation (processing of the beta subunits and juxtaposition of the two beta rings) is accompanied by conformational changes in the (outer) alpha rings, and may be inefficient. Finally, interferon-gamma had no significant effect on the half-lives or total amounts of precursor or mature proteasomes.</str>
+    </arr>
+    <str name="medline_article_title">Intermediates in the formation of mouse 20S proteasomes: implications for the assembly of precursor beta subunits.</str>
+    <str name="id">9311996</str></doc>
+  <doc>
+    <arr name="medline_abstract_text">
+      <str>Protein Z (PZ) is a vitamin K-dependent plasma protein that plays a role in both pro-and anticoagulant pathways, but its exact physiological function remains unclear. The aim of this study was to determine the association between the G79A PZ gene polymorphism in intron F, PZ levels and the occurrence of ischemic stroke.</str>
+      <str>We performed a case-control study in 118 Caucasian patients with first ever ischemic stroke or TIA confirmed by CT, and 113 age-and sex-matched population controls. Venous blood samples for PZ levels were collected 7 to 14 days and 3 months after stroke onset. Estimates of relative risk (odds ratios) were adjusted for vascular risk factors.</str>
+      <str>The adjusted relative risk of ischemic stroke associated with PZ levels in the lowest quartile versus the highest quartile was 3.0 (95% CI: 1.1-8.7) at 7-14 days, and 5.1 (95% CI: 1.2-21.9) at 3 months after the stroke. PZ levels in the convalescent sample were significantly lower than in the acute sample. In the convalescent sample, odds ratios increased with lower quartiles of protein Z level (test for trend p=0.02). Thirty-nine patients (33%) and 32 (28%) controls were heterozygous for the G79A PZ gene polymorphism and 4 (3%) patients and 4 (4%) controls had the AA-genotype. The PZ levels were significantly lower in subjects with the AA-genotype and intermediate in heterozygote subjects. The odds ratio of ischemic stroke associated with A-allele carriers versus GG-homozygotes was 1.2 (95% CI: 0.7-2.1).</str>
+      <str>No association between the G79A PZ gene polymorphism and the occurrence of stroke was observed. However, low PZ levels are independently associated with an increased risk of ischemic stroke.</str>
+    </arr>
+    <str name="medline_article_title">Low protein Z levels but not the protein Z gene G79A polymorphism are a risk factor for ischemic stroke.</str>
+    <str name="id">18378283</str></doc>
+  <doc>
+    <arr name="medline_abstract_text">
+      <str>Interferon (IFN) gamma induces replacements of the proteasomal subunits X and Y by LMP7 and LMP2, respectively, resulting in an alteration of the proteolytic specificity. We found a third pair of proteasome subunits expressed reciprocally in response to IFN-gamma. Molecular cloning of a cDNA encoding one subunit designated as Z, downregulated by IFN-gamma, showed that it is a novel proteasomal subunit with high homology to MECL1, which is markedly induced by IFN-gamma. Thus, IFN-gamma induces subunit replacements of not only X and Y by LMP7 and LMP2, respectively, but also of Z by MECL1, producing proteasomes responsible for immunological processing of endogenous antigens. When processed from their precursors, three pairs of the 10 homologous, but distinct, beta-type subunits of eukaryotic proteasomes, that is, X/LMP7, Y/LMP2, and Z/MECL1, have an NH2-terminal threonine residue, assumed to be part of a catalytic center. These findings suggest that the altered molecular organization of the proteasome induced by IFN-gamma may be responsible for acquisition of its functional change.</str>
+    </arr>
+    <str name="medline_article_title">Newly identified pair of proteasomal subunits regulated reciprocally by interferon gamma.</str>
+    <str name="id">8666937</str></doc>
+  <doc>
+    <arr name="medline_abstract_text">
+      <str>Protein Z-dependent protease inhibitor (ZPI) is a recently identified member of the serpin superfamily that functions as a cofactor-dependent regulator of blood coagulation factors Xa (FXa) and XIa. Here we show that ZPI and its cofactor, protein Z (PZ), inhibit procoagulant membrane-bound factor Xa by the branched pathway acyl-intermediate trapping mechanism used by other serpins, but with significant variations of this mechanism that are unique to ZPI. Rapid kinetic analyses showed that the reaction proceeded by the initial assembly of a membrane-associated PZ-ZPI-FXa Michaelis complex (K(M) 53+/-5 nM) followed by conversion to a stable ZPI-FXa complex (k(lim) 1.2+/-0.1 s(-1)). Cofactor premixing experiments together with independent kinetic analyses of ZPI-PZ and factor Xa-PZ-membrane complex formation suggested that assembly of the Michaelis complex through either ZPI-PZ-lipid or factor Xa-PZ-lipid intermediates was rate-limiting. Reaction stoichiometry analyses and native PAGE showed that for every factor Xa molecule inhibited by ZPI, two serpin molecules were cleaved. Native PAGE and immunoblotting showed that PZ dissociated from ZPI once ZPI forms a stable complex with FXa, and kinetic analyses confirmed that PZ acted catalytically to accelerate the membrane-dependent ZPI-factor Xa reaction. The ZPI-FXa complex was only transiently stable and dissociated with a rate constant that showed a bell-shaped pH dependence indicative of participation of factor Xa active-site residues. The complex was detectable by SDS-PAGE when denatured at low pH, consistent with it being a kinetically trapped covalent acyl-intermediate. Together our findings show that ZPI functions like other serpins to regulate the activity of FXa but in a manner uniquely dependent on protein Z, procoagulant membranes, and pH.</str>
+    </arr>
+    <str name="medline_article_title">Kinetic characterization of the protein Z-dependent protease inhibitor reaction with blood coagulation factor Xa.</str>
+    <str name="id">18768472</str></doc>
+</result>
+</response>

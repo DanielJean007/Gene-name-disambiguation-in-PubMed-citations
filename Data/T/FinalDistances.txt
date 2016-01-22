@@ -1,0 +1,27 @@
+[Word Base]: null
+[Variant names]:
+D(brachyury:null(0)) = -4.265625
+D(t:null(0)) = 11.0
+D(chordoma:null(0)) = -12.625
+D(expression:null(0)) = 20.125
+D(human:null(0)) = 6.421875
+D(tumor:null(0)) = -13.5
+D(factor:null(0)) = 16.1875
+D(carcinoma:null(0)) = 11.0
+D(study:null(0)) = -11.0
+D(tissue:null(0)) = -8.0
+D(identify:null(0)) = 26.0
+D(show:null(0)) = -15.5
+D(case:null(0)) = 9999.0
+D(cancer:null(0)) = 29.0
+D(transcription:null(0)) = 23.625
+D(brachyury:expression:null(0)) = 9999.0
+D(marker:null(0)) = -45.0
+D(association:null(0)) = 9.53125
+D(protein:null(0)) = 12.875
+D(stain:null(0)) = 9999.0
+D(conjurer:null(0)) = 9999.0
+D(positive:null(0)) = -14.0
+D(variant:null(0)) = 10.875
+
+Standard Deviation: 16.531147234851627

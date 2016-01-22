@@ -1,0 +1,28 @@
+[Word Base]: null
+[Variant names]:
+D(protein,null) = 9999.0
+D(proteasome,null) = 9999.0
+D(human,null) = 9999.0
+D(subunit,null) = 9999.0
+D(complex,null) = 9999.0
+D(hiv,null) = 9999.0
+D(vif,null) = 9999.0
+D(identify,null) = 9999.0
+D(site,null) = 9999.0
+D(APOBEC3G,null) = 9999.0
+D(interaction,null) = 9999.0
+D(function,null) = 9999.0
+D(ubiquitin,null) = 9999.0
+D(virus,null) = 9999.0
+D(analysis,null) = 9999.0
+D(degradation,null) = 9999.0
+D(process,null) = 9999.0
+D(virion,null) = 9999.0
+D(ubiquitylation,null) = 9999.0
+D(20s,null) = 9999.0
+D(dna,null) = 9999.0
+SD: 0.0
+Mean: 0.0
+Var: 0.0
+Median: 0.0
+

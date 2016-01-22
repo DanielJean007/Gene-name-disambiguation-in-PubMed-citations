@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+<lst name="responseHeader">
+  <int name="status">0</int>
+  <int name="QTime">0</int>
+  <lst name="params">
+    <str name="q">
+14528301
+8066462</str>
+    <str name="indent">true</str>
+    <str name="fl">id, medline_abstract_text, medline_article_title</str>
+    <str name="rows">100</str>
+    <str name="wt">xml</str>
+  </lst>
+</lst>
+<result name="response" numFound="2" start="0">
+  <doc>
+    <arr name="medline_abstract_text">
+      <str>The viral infectivity factor (Vif) encoded by HIV-1 neutralizes a potent antiviral pathway that occurs in human T lymphocytes and several leukemic T-cell lines termed nonpermissive, but not in other cells termed permissive. In the absence of Vif, this antiviral pathway efficiently inactivates HIV-1. It was recently reported that APOBEC3G (also known as CEM-15), a cytidine deaminase nucleic acid-editing enzyme, confers this antiviral phenotype on permissive cells. Here we describe evidence that Vif binds APOBEC3G and induces its rapid degradation, thus eliminating it from cells and preventing its incorporation into HIV-1 virions. Studies of Vif mutants imply that it contains two domains, one that binds APOBEC3G and another with a conserved SLQ(Y/F)LA motif that mediates APOBEC3G degradation by a proteasome-dependent pathway. These results provide promising approaches for drug discovery.</str>
+    </arr>
+    <str name="medline_article_title">HIV-1 Vif protein binds the editing enzyme APOBEC3G and induces its degradation.</str>
+    <str name="id">14528301</str></doc>
+  <doc>
+    <arr name="medline_abstract_text">
+      <str>Proteasomes are the proteolytic complex responsible for major histocompatibility complex (MHC) class I-restricted antigen presentation. Interferon gamma treatment increases expression MHC-encoded LMP2 and LMP7 subunits of the proteasome and decreases expression of two proteasome subunits, named X and Y, which alters the proteolytic specificity of proteasomes. Molecular cloning of complementary DNAs encoding X and Y showed that their proteins are proteasomal subunits with high amino acid similarity to LMP7 and LMP2, respectively. Thus, interferon gamma may induce subunit replacements of X and Y by LMP7 and LMP2, respectively, producing proteasomes perhaps more appropriate for the immunological processing of endogenous antigens.</str>
+    </arr>
+    <str name="medline_article_title">cDNA cloning and interferon gamma down-regulation of proteasomal subunits X and Y.</str>
+    <str name="id">8066462</str></doc>
+</result>
+</response>

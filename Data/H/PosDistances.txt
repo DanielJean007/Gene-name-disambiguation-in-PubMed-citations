@@ -1,0 +1,28 @@
+[Word Base]: H
+[Variant names]:
+D(FUT1:H(0)) = 56.760376
+D(h:H(0)) = 23.75
+D(expression:H(0)) = 16.9375
+D(allele:H(0)) = 22.382812
+D(fucosyltransferase:H(0)) = 7.0
+D(bombay:H(0)) = 9999.0
+D(mutation:H(0)) = 54.51172
+D(individual:H(0)) = 87.5
+D(human:H(0)) = 38.0
+D(FUT2:H(0)) = 107.82031
+D(antigen:H(0)) = 2.25
+D(sequence:H(0)) = 49.09375
+D(blood:H(0)) = 4.6875
+D(para:H(0)) = 9999.0
+D(para:bombay:H(0)) = 9999.0
+D(protein:H(0)) = 73.5
+D(alpha:H(0)) = 12.40625
+D(identify:H(0)) = 59.0
+D(lewis:H(0)) = 9999.0
+D(analysis:H(0)) = 26.671875
+D(type:H(0)) = 75.75
+D(1,2:H(0)) = 9999.0
+D(phenotype:H(0)) = 20.875
+D(associate:H(0)) = 9999.0
+
+

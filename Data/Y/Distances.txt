@@ -1,0 +1,29 @@
+[Word Base]: Y
+[Variant names]:
+D(human:Y(112) = -96)
+D(APOBEC3G:Y(112) = -63)
+D(APOBEC3G:Y(112) = -38)
+D(degradation:Y(112) = -33)
+D(APOBEC3G:Y(112) = -7)
+D(APOBEC3G:Y(112) = 6)
+D(degradation:Y(112) = 7)
+
+[Word Base]: Y
+[Variant names]:
+D(complex:Y(38) = -34)
+D(complex:Y(38) = -29)
+D(proteasome:Y(38) = -11)
+D(proteasome:Y(38) = -5)
+D(subunit:Y(38) = 39)
+D(complex:Y(54) = -50)
+D(complex:Y(54) = -45)
+D(proteasome:Y(54) = -27)
+D(proteasome:Y(54) = -21)
+D(subunit:Y(54) = 23)
+D(complex:Y(82) = -78)
+D(complex:Y(82) = -73)
+D(proteasome:Y(82) = -55)
+D(proteasome:Y(82) = -49)
+D(subunit:Y(82) = -5)
+
+

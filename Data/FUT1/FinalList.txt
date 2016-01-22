@@ -1,0 +1,17 @@
+[Word Base]: null
+[Variant names]:
+D(h , null(0)) = -10.0
+D(expression , null(0)) = 5.88818359375
+D(allele , null(0)) = 9.51953125
+D(fucosyltransferase , null(0)) = -6.659273147583008
+D(FUT2 , null(0)) = 1.8468017578125
+D(para , null(0)) = 13.8359375
+D(protein , null(0)) = 6.25
+D(alpha , null(0)) = -8.3037109375
+D(analysis , null(0)) = -12.53125
+D(type , null(0)) = -11.34375
+SD: 18.92986723434406
+Mean: -1.9508655071258545
+Var: 358.3398735098928
+Median: 0.0
+

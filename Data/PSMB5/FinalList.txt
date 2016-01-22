@@ -1,0 +1,22 @@
+[Word Base]: PSMB5
+[Variant names]:
+D(proteasome,PSMB5) = 9.0625
+D(bortezomib,PSMB5) = 5.15625
+D(expression,PSMB5) = -9.125
+D(resistance,PSMB5) = -11.78125
+D(protein,PSMB5) = 4.75
+D(activity,PSMB5) = 11.8984375
+D(level,PSMB5) = 14.0
+D(beta5,PSMB5) = -2.0
+D(resistant,PSMB5) = 12.125
+D(parental,PSMB5) = 10.25
+D(STAT3,PSMB5) = -2.0
+D(patient,PSMB5) = -6.0
+D(mutation,PSMB5) = -5.75
+D(mechanism,PSMB5) = 5.5
+D(decrease,PSMB5) = -10.0
+SD: 19.568356122065723
+Mean: -3.20546875
+Var: 382.9205613199871
+Median: 0.0
+

@@ -1,0 +1,39 @@
+Some observations.
+
+O1 - In the description of a gene, PubMeb has the field "Also known as" where they describe other names a gene can be called of or referred to. 
+When we compare HGNClastDict (the provided gene dictionary)with PubMed's description, we see that only a few of the variant names in our dictionary meet the "Also known as" field.
+I just wanted to ask what we should do about that. Should we add those to our dictionary, or just leave HGNClastDict the way it is?
+
+O2 - The good samples we have from PubMed only regard the canonical name of a gene. That means that we don't have samples for the 'P' variant name only for 'OCA2', it's canonical name, for instance.
+
+###############################################################
+
+Suggestions and ideas:
+
+I do think we could take great advantage of the good samples we have, so I was thinking on that.
+
+S1 - I've been reading some of the abstracts (a lot of them, actually). What if we tried to asnwer the question: "When or how does the variant name refer to the canonical name or is used as a gene name?". The question takes away the assumption that the variant name is going to be used as a gene name all the time. The new assumption, although, is that the variant name will somehow be related to the canonical name.
+It is still true that canonical name may or may not appear in the abstract, but that would be dealt with if we assume this approach.
+Let me give you an example. The document 22164283, does not mention T gene, but it does make mention of the variant name of the gene. So during the indexing, solr would consider the document as related to the T gene.
+
+S2 - We've come up with a method to extract the keywords from the good samples. This is done by taking the frequency of a word over all the samples. Then, the program strikes out the stopwords.
+You suggested that we should do such a dictionary of keywords by establishing what is present around the variant name of interest. I'd like to take a step further and analyse the between of the variant name and the canonical name, whether it appears.
+
+S3 - We could extend the analysis to every variant name of a gene. We could run the method described above in every variant name. This way when indexing a new document, Solr would look to a canditade word, generate a feature of it surroundings and compare it with the ones gererated from the good samples. We should, then, set a threshold for the similarity that would establish if the candidate work refers to or is a gene name.
+
+S4 - This suggestion is rather radical, but I'd like to discuss it with you. Moreover, it would help speeding up things, I guess. The method aforedescribed can be extremely time consuming for such a ruge data base and gene dictionary such as ours. To cope with that, we could drop the variant names and rely solely on the features/keywords/dictionary of the canonical name which would be generated from the good samples. Theoretically speaking, some of the variant names would appear in such dictionary generated from the good samples anyway.
+When indexing, Solr would compare a candidate word with the keywords/dictionary of each canonical gene name. Again, a threshould would be used to determine if the similarity of the candidate word was met.
+
+###############################################################
+
+Questions:
+
+Q1 - Just for terminology's sake, is it ok if I call the good samples as the training data?
+
+Q2 - I still don't know how to call the set of words that we generate from the good samples. 
+
+
+#################################################################
+Prof's suggestion:
+To use sequence tagging from mallet.
+Use the distances and features to figure out the gene names.

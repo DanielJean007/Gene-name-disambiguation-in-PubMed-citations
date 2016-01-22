@@ -1,0 +1,27 @@
+[Word Base]: null
+[Variant names]:
+D(case:null(0)) = 9999.0
+D(brachyury:expression:null(0)) = 9999.0
+D(marker:null(0)) = 9999.0
+D(stain:null(0)) = 9999.0
+D(conjurer:null(0)) = 9999.0
+D(identify:null(0)) = 9999.0
+D(study:null(0)) = 9999.0
+D(tumor:null(0)) = 9999.0
+D(tissue:null(0)) = 9999.0
+D(chordoma:null(0)) = 9999.0
+D(positive:null(0)) = 9999.0
+D(carcinoma:null(0)) = 9999.0
+D(brachyury:null(0)) = 9999.0
+D(expression:null(0)) = 9999.0
+D(cancer:null(0)) = 9999.0
+D(human:null(0)) = 9999.0
+D(protein:null(0)) = 9999.0
+D(transcription:null(0)) = 9999.0
+D(factor:null(0)) = 9999.0
+D(association:null(0)) = 9999.0
+D(t:null(0)) = 9999.0
+D(variant:null(0)) = 9999.0
+D(show:null(0)) = 9999.0
+
+

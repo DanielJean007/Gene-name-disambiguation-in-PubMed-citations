@@ -1,0 +1,197 @@
+# This annotated log shows how tmsk can be applied to sample data.
+# It can be used to verify the software works correctly after installation.
+# The "%" is the linux shell prompt and precedes the user input.
+# For windows, the prompt would be the command-prompt or MSDOS-prompt.
+# The "#" precedes comments (such as these).
+# Output lines from tmsk routines are without a "#" or "%" character at the
+# front.
+#
+# Several data files are used in this illustration. The tmsk1.properties and
+# tmsk2.properties prewire various parameters that are used here.
+# They use the sample.xml data which is a very small sample of 10 email
+# messages. A stopwords file stop.wds is also used and later on in this
+# illustration, testdocs.xml will be used.
+# 
+# The following line loads the sample tmsk1.properties which has preset
+# parameter values for this illustration.
+#
+% cp tmsk1.properties tmsk.properties
+#
+# The following line generates a 100 word global dictionary for sample.xml
+#
+% java mkdict 100 dict.smp
+#
+# The dictionary is just a text file that can be readily viewed and edited.
+# Note how the number of words is 37 since stopword elimination is done at the
+# end.
+#
+% cat dict.smp
+i
+an
+me
+transaction
+zimbabwe
+bank
+funds
+her
+more
+attorney
+time
+account
+linux
+life
+genie
+new
+chief
+proposal
+anz
+over
+officer
+manager
+claim
+cosban
+up
+bulawayo
+site
+send
+first
+required
+sales
+credit
+share
+month
+fact
+don't
+address
+#
+# The following line generates document vectors for the documents in
+# sample.xml.
+# Labelled vectors are sought (spam v/s non-spam).
+# Note that it takes the input file name, dictionary name, etc from the
+# tmsk.properties file. So if you use a different name for the dictionary,
+# you will need to edit the properties file.
+#
+% java vectorize spam samp.vec
+#
+# The vectors can also be readily viewed. Note how the 9th document doesn't
+# contain any of the dictionary words.
+#
+% cat samp.vec
+0 1@11 2@7 3@2 4@6 5@6 6@6 7@5 9@2 10@4 11@1 12@2 16@1 17@3 18@3 21@3 23@3 24@3 26@3 28@1 32@2 33@2 34@1 37@2
+1 12@2 16@1 19@3 27@3 28@1 30@1
+1 9@2 16@1
+1 1@1 8@4 9@1 14@1 25@1 35@2 36@1
+1 20@1
+1 3@1 8@1 11@2 14@1 20@2 25@1
+0 1@6 2@1 3@2 13@3 25@1 30@1 36@1
+0 1@4 2@3 3@4 14@1 15@3 22@3 29@3 31@2
+0
+0 1@3 11@1 28@1 34@1
+#
+# The following line generates a linear classifier based on the vectors.
+# The classifier is for 2 classes: spam and not-spam.
+#
+% java linear samp.wts
+precision: 100.0000	recall: 100.0000  	f-measure: 100.0000
+#
+# The following line loads new parameters into tmsk.properties.
+# These parameters set the input file to be testdocs.xml which contains
+# unlabelled email messages that we will classify using the linear classifier
+# we have just built. One could, of course, have simply edited tmsk.properties
+# in a text editor as well.
+#
+% cp tmsk2.properties tmsk.properties
+#
+# The following line vectorizes the documents in testdocs.xml
+# Note that these documents are unlabelled, hence the vectors are unlabelled
+# as well.
+#
+% java vectorize samp.vec
+#
+# You can verify that your installation gives the same vectors as below.
+#
+% cat samp.vec
+ 1@4 3@1 11@2 18@1
+ 1@1 9@1 11@1 14@1
+ 2@1 3@1 9@2 36@1
+ 3@1 16@1 36@1
+#
+# The following line applies the linear classifer to testdocs.xml and creates
+# two files: one with positive (spam) predictions, the other with negative
+# (not-spam) predictions.
+#
+% java testline samp.wts pos.xml neg.xml
+#
+# These files are just xml files with documents.
+# The following command views the documents predicted as spam by the
+# classifier.
+# 
+% cat pos.xml
+<DOC>
+<BODY>
+"I've been using your product for 4 months now. I've increased my length from 2" to nearly 6" . Your product has saved my sex life." -Matt, FL
+"My girlfriend loves the results, but she doesn't know what I do. She thinks it's natural" -Thomas, CA
+Pleasure your partner every time with a bigger, longer, stronger Unit
+Realistic gains quickly
+To be more popular with the girls, click here
+</BODY>
+</DOC>
+<DOC>
+<BODY>
+Cheap softtwares for you, all are Original Genuine!
+Major titles from MICR0S0FT and AD0BE for Rock Bottom prriice
+Great Bargaain Sa1e! Variety discoount softtwares at wholesale chaeap pricing!
+Micros0ft Wind0ws XP PR0fessional - my price: $50 ; normal : $299.00 ; you saave $249.00
+Ad0be Ph0toshop CS V 8.O PC - my price: $80 ; normal : $609.99 ; you save $529.99
+Micros0ft 0ffice XP PR0fessional - my price: $100 ; normal : $ 499.95; you saave $399.95
+Ad0be Acrobaat V 6.o Professional PC - my price: $100 ; normal : $449.95 ; you saave $349.95
+Micros0ft 0ffice 2OO3 Professional - my price: $80 ; normal : $499.95 ; you saave $419.95
+N0rton Antivirus 2OO4 Professional - my price: $15 ; normal : $69.95 ; you saave $54.95
+CorelDraw Graphics Suite V 12 PC - my price: $100 ; normal : $349.95 ; you saave $249.95
+Ad0be Pagemaker V 7.O PC - my price: $80 ; normal : $599.95 ; you saave $519.95
+We do have full range softwares -- Macr0media, Mc-Afeee, Ad0bee, Core1Draw, Micros0ft, NERO, Pinnacle Systems, PowerQuest, RedHat, Riverdeep, Roxio, Symaantec, 321 Studio
+52 More P0PULAR titles for you >> Cliickk here for 52 more titles
+We shiip to all countries including africa, finland & etc.. as where u located
+Wonder why our priices are unbelievably L0W?
+We are currently clearing our goods at incredibily cheeap sa1e-priice in connection with the shutdown of our shop and the closure of the stockhouse. Don't missss your lucky chance to get the best priicce on discoouunt software!
+We are the authorized agent and an established reseller offering OEM Licensing software.
+We possesses all the necessary certificates issued to verify the authenticity of genuine OEM products and granting the right for us to resell OEM software products.
+Super Cheaep MICR0S0FT, AD0BE & all kinds..
+Cliickk here to enjoy our Superb Discounnt!
+take me down
+</BODY>
+</DOC>
+<DOC>
+<BODY>
+Crystal Rivas,"
+Govenment don't want me to sell
+UndergroundCD !Check Your spouse and staff
+Investigate Your Own CREDIT-HISTORY
+hacking someone PC!Get a new passport!
+Disappear in your city
+bannedcd2004
+http://czddghf.onlythebestofall.info/amite/CD/
+,airstrip ,axial
+,staunch ,digestive .
+</BODY>
+</DOC>
+#
+# Here we view the documents classified as not-spam
+#
+% cat neg.xml
+<DOC>
+<BODY>
+Hi Professor,
+Do you have some time this week? I want to ask your advice on my thesis
+proposal. I have a problem with my preliminary empirical experiments -- the
+results are not supportive enough of my thesis!! Perhaps I am missing something
+in the data preparation or perhaps I am not applying the data-mining method
+effectively. I'd really appreciate your input. Please let me know when is a
+good time to see you.
+</BODY>
+</DOC>
+#
+# Further processing may be done by running other tmsk routines
+# or by altering parameters in the tmsk.properties file. Read the
+# documentation in tmsk.pdf.
+#

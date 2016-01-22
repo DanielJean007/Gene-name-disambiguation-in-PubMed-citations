@@ -1,0 +1,29 @@
+[Word Base]: P
+[Variant names]:
+D(OCA2:P(0)) = -29.885658621788025
+D(p:P(0)) = -20.375
+D(mutation:P(0)) = -21.982421875
+D(albinism:P(0)) = -15.770682036876678
+D(eye:P(0)) = -11.36328125
+D(study:P(0)) = -96.62110900878906
+D(associate:P(0)) = 9999.0
+D(patient:P(0)) = -78.0
+D(population:P(0)) = -34.2529296875
+D(pigmentation:P(0)) = -63.268150329589844
+D(skin:P(0)) = -58.67727851867676
+D(association:P(0)) = -20.765625
+D(color:P(0)) = -17.96875
+D(human:P(0)) = -52.395477294921875
+D(genetic:P(0)) = -103.6005859375
+D(identify:P(0)) = -88.1875
+D(oculocutaneous:P(0)) = -21.32235336303711
+D(oculocutaneous:albinism:P(0)) = 9999.0
+D(hair:P(0)) = -22.256027221679688
+D(oca:P(0)) = 9999.0
+D(analysis:P(0)) = -53.0509033203125
+D(allele:P(0)) = -12.1484375
+D(SNP:P(0)) = -32.83203125
+D(variation:P(0)) = -158.1484375
+D(variant:P(0)) = -22.3125
+
+

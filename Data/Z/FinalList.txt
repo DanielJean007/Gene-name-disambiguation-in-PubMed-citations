@@ -1,0 +1,9 @@
+[Word Base]: null
+[Variant names]:
+D(protein:null(0)) = -1.0
+D(human:null(0)) = 15.0
+D(subunit:null(0)) = 9.5
+D(level:null(0)) = 1.0
+D(activity:null(0)) = -11.0
+
+Standard Deviation: 17.285630033963983

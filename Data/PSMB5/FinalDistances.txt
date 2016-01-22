@@ -1,0 +1,37 @@
+[Word Base]: null
+[Variant names]:
+D(PSMB5,null) = 9999.0
+D(proteasome:subunit,null) = 9999.0
+D(jurkatb,null) = 9999.0
+D(bortezomib:resistance,null) = 9999.0
+D(group,null) = 9999.0
+D(LMP7,null) = 9999.0
+D(mb1,null) = 9999.0
+D(encode,null) = 9999.0
+D(jurkat,null) = 9999.0
+D(study,null) = 9999.0
+D(line,null) = 9999.0
+D(subunit,null) = 9999.0
+D(beta5,null) = 9999.0
+D(beta,null) = 9999.0
+D(mutation,null) = 9999.0
+D(drug,null) = 9999.0
+D(resistant,null) = 9999.0
+D(parental,null) = 9999.0
+D(level,null) = 9999.0
+D(mechanism,null) = 9999.0
+D(resistance,null) = 9999.0
+D(patient,null) = 9999.0
+D(decrease,null) = 9999.0
+D(bortezomib,null) = 9999.0
+D(protein,null) = 9999.0
+D(STAT3,null) = 9999.0
+D(proteasome,null) = 9999.0
+D(increase,null) = 9999.0
+D(expression,null) = 9999.0
+D(activity,null) = 9999.0
+SD: 0.0
+Mean: 0.0
+Var: 0.0
+Median: 0.0
+

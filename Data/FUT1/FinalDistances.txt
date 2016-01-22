@@ -1,0 +1,31 @@
+[Word Base]: null
+[Variant names]:
+D(FUT1 , null(0)) = 9999.0
+D(bombay , null(0)) = 9999.0
+D(para:bombay , null(0)) = 9999.0
+D(lewis , null(0)) = 9999.0
+D(1,2 , null(0)) = 9999.0
+D(associate , null(0)) = 9999.0
+D(blood , null(0)) = 9999.0
+D(fucosyltransferase , null(0)) = 9999.0
+D(antigen , null(0)) = 9999.0
+D(human , null(0)) = 9999.0
+D(analysis , null(0)) = 9999.0
+D(sequence , null(0)) = 9999.0
+D(alpha , null(0)) = 9999.0
+D(FUT2 , null(0)) = 9999.0
+D(identify , null(0)) = 9999.0
+D(type , null(0)) = 9999.0
+D(h , null(0)) = 9999.0
+D(individual , null(0)) = 9999.0
+D(allele , null(0)) = 9999.0
+D(mutation , null(0)) = 9999.0
+D(para , null(0)) = 9999.0
+D(phenotype , null(0)) = 9999.0
+D(expression , null(0)) = 9999.0
+D(protein , null(0)) = 9999.0
+SD: 0.0
+Mean: 0.0
+Var: 0.0
+Median: 0.0
+
